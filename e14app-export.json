@@ -357,15 +357,4 @@
   "odp4" : "Mechanizm wykonywania aplikacji oparty na uprawnieniach kodu (CAS - Code Access Security) i na rolach (RBS - Role-Based Security).",
   "pytanie" : "Jakiego rodzaju mechanizm kontroli bezpieczeństwa wykonywania aplikacji zawiera środowisko uruchomieniowe platformy .NET Framework?",
   "roz" : "Mechanizm wykonywania aplikacji oparty na uprawnieniach kodu (CAS - Code Access Security) i na rolach (RBS - Role-Based Security)."
-},
-{
-  "Id" : "41",
-  "odp1" : "<a href='mailto:adres'>tekst</a>",
-  "odp2" : "<a href='http://:adres'>tekst</a>",
-  "odp3" : "<a href=“http://adres“>tekst</a>",
-  "odp4" : "<a href="mailto:adres">tekst</a>",
-  "pytanie" : "Który z odsyłaczy posiada poprawną konstrukcję?",
-  "roz" : "<a href="mailto:adres">tekst</a>"
-} 
-
-]
+} ]
