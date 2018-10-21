@@ -1,0 +1,371 @@
+[ {
+  "Id" : "1",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/hqdefault.jpg?alt=media&token=3d88303b-0cc1-48db-a522-e1678ffe2fe1",
+  "odp1" : "<body color=\"black\">TEKST</font>",
+  "odp2" : "<font color=\"czarny\">TEKST</font>",
+  "odp3" : "<font color=\"#000000\">TEKST</font>",
+  "odp4" : "<body bgcolor=\"black\">TEKST</body>",
+  "pytanie" : "Którego polecenia należy użyć , aby wyraz TEKST został wyświetlony w kolorze czarnym w oknie przeglądarki internetowej?",
+  "roz" : "<font color=\"#000000\">TEKST</font>"
+}, {
+  "Id" : "2",
+  "img_url" : "0",
+  "odp1" : "loop=\"10\"",
+  "odp2" : "balance=\"10\"",
+  "odp3" : "volume=\"-100\"",
+  "odp4" : "href=\"c:/100.wav\"",
+  "pytanie" : "W poleceniach, których celem jest odtwarzanie na stronie internetowej dźwięku, jako podkładu muzycznego nie wykorzystuje się atrybutu",
+  "roz" : "href=\"c:/100.wav\""
+}, {
+  "Id" : "3",
+  "img_url" : "0",
+  "odp1" : " <p>",
+  "odp2" : "</b>",
+  "odp3" : "<br>",
+  "odp4" : "</br>",
+  "pytanie" : "Jakiego znacznika należy użyć, aby przejść do kolejnej linii tekstu, nie tworząc akapitu na stronie internetowej?",
+  "roz" : "<br>"
+}, {
+  "Id" : "4",
+  "img_url" : "0",
+  "odp1" : "ułatwienia formatowania strony.",
+  "odp2" : "nadpisywania wartości znaczników już ustawionych na stronie.",
+  "odp3" : "połączenia struktury dokumentu strony z właściwą formą jego prezentacji.",
+  "odp4" : "blokowania jakichkolwiek zmian w wartościach znaczników już przypisanych w pliku CSS.",
+  "pytanie" : "Kaskadowe arkusze stylów tworzy się w celu",
+  "roz" : "ułatwienia formatowania strony."
+}, {
+  "Id" : "5",
+  "img_url" : "0",
+  "odp1" : "klasę.",
+  "odp2" : "wartość.",
+  "odp3" : " selektor.",
+  "odp4" : "deklarację.",
+  "pytanie" : "W podanej regule CSS h1{color: blue} h1 oznacza",
+  "roz" : " selektor."
+}, {
+  "Id" : "6",
+  "img_url" : "0",
+  "odp1" : " tworzenie podstawowej grafiki wektorowej.",
+  "odp2" : "publikację strony na serwerze poprzez wbudowanego klienta FTP.",
+  "odp3" : "obróbkę plików dźwiękowych przed umieszczeniem ich na stronie internetowej.",
+  "odp4" : " uzyskanie zbliżonego wyniku tworzonej strony do jej obrazu w przeglądarce internetowej.",
+  "pytanie" : "Edytor spełniający założenia WYSIWYG musi umożliwiać",
+  "roz" : " uzyskanie zbliżonego wyniku tworzonej strony do jej obrazu w przeglądarce internetowej."
+}, {
+  "Id" : "7",
+  "img_url" : "0",
+  "odp1" : "edytor CSS.",
+  "odp2" : "przeglądarkę internetową.",
+  "odp3" : "program typu WYSIWYG.",
+  "odp4" : "program MS Office Picture Manager.",
+  "pytanie" : "Do graficznego tworzenia stron internetowych należy wykorzystać",
+  "roz" : "program typu WYSIWYG."
+}, {
+  "Id" : "8",
+  "img_url" : "0",
+  "odp1" : "działania linków.",
+  "odp2" : "błędów składni kodu.",
+  "odp3" : "zgodności z przeglądarkami.",
+  "odp4" : "źródła pochodzenia narzędzi edytorskich.",
+  "pytanie" : "W procesie walidacji stron internetowych nie bada się",
+  "roz" : "źródła pochodzenia narzędzi edytorskich."
+}, {
+  "Id" : "9",
+  "img_url" : "0",
+  "odp1" : "HSV",
+  "odp2" : "RGB",
+  "odp3" : "CMY",
+  "odp4" : "CMYK",
+  "pytanie" : "Model opisu przestrzeni barw o parametrach odcień, nasycenie i jasność, to",
+  "roz" : "HSV"
+}, {
+  "Id" : "10",
+  "img_url" : "0",
+  "odp1" : "HLS",
+  "odp2" : "RGB",
+  "odp3" : "CMY",
+  "odp4" : "CMYK",
+  "pytanie" : "Wskaż model barw, który stosuje się do wyświetlania kolorów na ekranie monitora komputerowego",
+  "roz" : "RGB"
+}, {
+  "Id" : "11",
+  "img_url" : "0",
+  "odp1" : "Nasycenie barw.",
+  "odp2" : "Przezroczystość.",
+  "odp3" : "Ostrość krawędzi.",
+  "odp4" : "Kolejność wyświetlania pikseli.",
+  "pytanie" : "Który parametr obiektu graficznego ulegnie zmianie po modyfikacji wartości kanału alfa?",
+  "roz" : "Przezroczystość."
+}, {
+  "Id" : "12",
+  "img_url" : "0",
+  "odp1" : "GIF",
+  "odp2" : " PNG",
+  "odp3" : "PCX",
+  "odp4" : "JPEG",
+  "pytanie" : "Jakiego formatu należy użyć do zapisu obrazu z kompresją stratną?",
+  "roz" : "JPEG"
+}, {
+  "Id" : "13",
+  "img_url" : "0",
+  "odp1" : "animowaniu obiektu.",
+  "odp2" : " zmianie warstwy obiektu.",
+  "odp3" : "narysowaniu docelowego obiektu.",
+  "odp4" : "geometrycznym transformowaniu obiektu.",
+  "pytanie" : "Najprostszy sposób zmiany obiektu oznaczonego cyfrą 1 na obiekt oznaczony cyfrą 2 polega na",
+  "roz" : "geometrycznym transformowaniu obiektu."
+}, {
+  "Id" : "14",
+  "img_url" : "0",
+  "odp1" : "Mapowanie.",
+  "odp2" : "Rasteryzacja.",
+  "odp3" : "Renderowanie.",
+  "odp4" : "Teksturowanie.",
+  "pytanie" : "Jak nazywa się proces przedstawienia, we właściwej dla danego środowiska formie, informacji zawartej w dokumencie elektronicznym?",
+  "roz" : "Renderowanie."
+}, {
+  "Id" : "15",
+  "img_url" : "0",
+  "odp1" : "liniowym.",
+  "odp2" : "przyczynowym.",
+  "odp3" : "niezmiennym w czasie.",
+  "odp4" : "o skończonej odpowiedzi impulsowej.",
+  "pytanie" : "Proces filtracji sygnału wejściowego w dziedzinie czasu, obejmujący zasadę superpozycji, związany jest z filtrem",
+  "roz" : "liniowym."
+}, {
+  "Id" : "16",
+  "img_url" : "0",
+  "odp1" : "SQL DML (ang. Data Manipulation Language).",
+  "odp2" : "SQL DDL (ang. Data Definition Language).",
+  "odp3" : "SQL DCL (ang. Data Control Language).",
+  "odp4" : "SQL DQL (ang. Data Query Language).",
+  "pytanie" : "Jak nazywa się podzbiór strukturalnego języka zapytań, związany z formułowaniem zapytań do bazy danych za pomocą polecenia SELECT?",
+  "roz" : "SQL DQL (ang. Data Query Language)."
+}, {
+  "Id" : "17",
+  "img_url" : "0",
+  "odp1" : "SELECT, SELECT INTO",
+  "odp2" : "ALTER, CREATE, DROP",
+  "odp3" : "DENY, GRANT, REVOKE",
+  "odp4" : "DELETE, INSERT, UPDATE",
+  "pytanie" : "Jakie są nazwy typowych poleceń języka zapytań SQL, związane z wykonywaniem operacji na danych SQL DML (np.: umieszczanie danych w bazie, kasowanie, dokonywanie zmian w danych)?",
+  "roz" : "DELETE, INSERT, UPDATE"
+}, {
+  "Id" : "18",
+  "img_url" : "0",
+  "odp1" : "Rosnąco według parametru klasa.",
+  "odp2" : "Malejąco według parametru klasa.",
+  "odp3" : "Rosnąco według parametru srednia.",
+  "odp4" : "Malejąco według parametru srednia.",
+  "pytanie" : "Jak posortowana będzie lista, utworzona ze wszystkich kolumn tabeli uczniowie i zawierająca uczniów ze średnią większą od 5, która zostanie zwrócona jako wynik przedstawionego zapytania?",
+  "roz" : "Malejąco według parametru klasa."
+}, {
+  "Id" : "19",
+  "img_url" : "0",
+  "odp1" : "Według parametru wyrob_id wyłącznie dla trzech tabel.",
+  "odp2" : "Według parametru wyrob_id dla wszystkich tabel.",
+  "odp3" : "Według parametru nr_id wyłącznie dla trzech tabel.",
+  "odp4" : "Według parametru nr_id dla wszystkich tabel.",
+  "pytanie" : "Według którego parametru oraz dla ilu tabel zostaną zwrócone wiersze na liście w wyniku przedstawionego zapytania?",
+  "roz" : "Według parametru nr_id dla wszystkich tabel."
+}, {
+  "Id" : "20",
+  "img_url" : "0",
+  "odp1" : "Reguła.",
+  "odp2" : "Wyzwalacz.",
+  "odp3" : "Procedura składowa.",
+  "odp4" : "Funkcja zdefiniowana.",
+  "pytanie" : "Który z obiektów relacyjnej bazy danych, będący kodem języka SQL, może być wywoływany w zapytaniach modyfikujących kolumny danych widoczne jako tabela, bez względu na to czy jest tworzony programowo, czy dynamicznie?",
+  "roz" : "Funkcja zdefiniowana."
+}, {
+  "Id" : "21",
+  "img_url" : "0",
+  "odp1" : "Tabela.",
+  "odp2" : "Raport.",
+  "odp3" : "Zapytanie.",
+  "odp4" : "Formularz.",
+  "pytanie" : "Jak nazywa się element bazy danych, za pomocą którego można jedynie odczytywać dane z bazy, prezentując je w postaci tekstu lub wykresu?",
+  "roz" : "Raport."
+}, {
+  "Id" : "22",
+  "img_url" : "0",
+  "odp1" : "Klucz obcy.",
+  "odp2" : "System Zarządzania Bazą Danych (SZBD).",
+  "odp3" : "Obiektowy System Zarządzania Bazą Danych.",
+  "odp4" : "Otwarty mechanizm komunikacji bazy danych.",
+  "pytanie" : "Jakiego typu specjalizowane oprogramowanie narzędziowe należy zainstalować, aby umożliwić wykonanie jego użytkownikowi operacji na zgromadzonych danych?",
+  "roz" : "System Zarządzania Bazą Danych (SZBD)."
+}, {
+  "Id" : "23",
+  "img_url" : "0",
+  "odp1" : "Reguły.",
+  "odp2" : "Indeksy.",
+  "odp3" : "Wartości domyślne.",
+  "odp4" : "Klucze podstawowe.",
+  "pytanie" : "Co należy zastosować w organizacji danych, aby zapytania w bazie danych były wykonywane szybciej?",
+  "roz" : "Indeksy."
+}, {
+  "Id" : "24",
+  "img_url" : "0",
+  "odp1" : "stosowanie makr.",
+  "odp2" : "przypisanie uprawnień.",
+  "odp3" : "określanie przestrzeni tabel.",
+  "odp4" : "wprowadzenie limitów przestrzeni dyskowej.",
+  "pytanie" : "W programie Microsoft Access formą zabezpieczeń dostępu do danych związaną z tabelą i kwerendą jest",
+  "roz" : "przypisanie uprawnień."
+}, {
+  "Id" : "25",
+  "img_url" : "0",
+  "odp1" : "Projektanci narzędzi deweloperskich.",
+  "odp2" : "Administratorzy systemu bazy danych.",
+  "odp3" : "Administratorzy serwerów i sieci komputerowych.",
+  "odp4" : "Projektanci i programiści Systemu Zarządzania Bazą Danych.",
+  "pytanie" : "Które z wymienionych osób odpowiadają za przygotowanie systemu bazy danych do pracy produkcyjnej w sposób ciągły, zarządzanie użytkownikami i instalowanie nowych wersji systemu bazodanowego?",
+  "roz" : "Administratorzy systemu bazy danych."
+}, {
+  "Id" : "26",
+  "img_url" : "0",
+  "odp1" : "Z regułami.",
+  "odp2" : "Z atrybutami.",
+  "odp3" : "Z przywilejami obiektowymi.",
+  "odp4" : "Z przywilejami systemowymi.",
+  "pytanie" : "Z jakimi mechanizmami nadawania zabezpieczeń, dającymi możliwość wykonywania operacji na bazie danych, związane są zagadnienia zarządzania kontami, użytkownikami i uprawnieniami?",
+  "roz" : "Z przywilejami systemowymi."
+}, {
+  "Id" : "27",
+  "img_url" : "0",
+  "odp1" : "folderu sieciowego.",
+  "odp2" : "serwera bazy danych.",
+  "odp3" : "dzielonej bazy danych.",
+  "odp4" : "witryny programu SharePoint.",
+  "pytanie" : "Metoda udostępniania bazy danych w programie Microsoft Access, dotycząca wszystkich obiektów bazy umieszczonych na dysku sieciowym i używanych jednocześnie przez różne osoby nosi nazwę",
+  "roz" : "folderu sieciowego."
+}, {
+  "Id" : "28",
+  "img_url" : "0",
+  "odp1" : "Users.",
+  "odp2" : "Security users.",
+  "odp3" : "Użytkownik lokalny.",
+  "odp4" : "Administrator systemu.",
+  "pytanie" : "Jakie należy posiadać uprawnienia, aby wykonać i odtworzyć kopię zapasową bazy danych Microsoft SQL Server 2005 Express?",
+  "roz" : "Administrator systemu."
+}, {
+  "Id" : "29",
+  "img_url" : "0",
+  "odp1" : "nie występuje.",
+  "odp2" : "jest tylko jeden.",
+  "odp3" : "następuje poprzez przypisanie wartości.",
+  "odp4" : "musi być zadeklarowany na początku skryptu.",
+  "pytanie" : "Typ zmiennej w języku JavaScript",
+  "roz" : "następuje poprzez przypisanie wartości."
+}, {
+  "Id" : "30",
+  "img_url" : "0",
+  "odp1" : "naturalnych.",
+  "odp2" : "całkowitych.",
+  "odp3" : "w notacji stałoprzecinkowej.",
+  "odp4" : "w notacji zmiennoprzecinkowej.",
+  "pytanie" : " Zmienne typu int odnoszą się do liczb",
+  "roz" : "całkowitych."
+}, {
+  "Id" : "31",
+  "img_url" : "0",
+  "odp1" : "Hierarchię zmiennych.",
+  "odp2" : "Trzy zmienne niepowiązane ze sobą.",
+  "odp3" : "Typ strukturalny składający się z trzech pól.",
+  "odp4" : "Kontakt pomiędzy zmiennymi globalnymi i lokalnymi.",
+  "pytanie" : "Co definiuje w języku C++ przedstawiony fragment kodu?",
+  "roz" : "Typ strukturalny składający się z trzech pól."
+}, {
+  "Id" : "32",
+  "img_url" : "0",
+  "odp1" : "stanowego.",
+  "odp2" : "logicznego.",
+  "odp3" : "funkcyjnego.",
+  "odp4" : "imperatywnego.",
+  "pytanie" : "Sposób programowania, w którym ciąg poleceń (sekwencji instrukcji) przekazywanych komputerowi jest postrzegany jako program, nosi nazwę programowania",
+  "roz" : "imperatywnego."
+}, {
+  "Id" : "33",
+  "img_url" : "0",
+  "odp1" : "2 2 1",
+  "odp2" : "2 1 1",
+  "odp3" : "1 2 1",
+  "odp4" : "1 2 2",
+  "pytanie" : "Które wartości będą kolejno wypisane w wyniku działania przedstawionego skryptu?",
+  "roz" : "2 2 1"
+}, {
+  "Id" : "34",
+  "img_url" : "0",
+  "odp1" : "C",
+  "odp2" : "C#",
+  "odp3" : "PHP",
+  "odp4" : "JavaScript",
+  "pytanie" : "Fragment kodu prezentuje składnię języka",
+  "roz" : "PHP"
+}, {
+  "Id" : "35",
+  "img_url" : "0",
+  "odp1" : "Debugger.",
+  "odp2" : "Kompilator.",
+  "odp3" : "Edytor kodu źródłowego.",
+  "odp4" : "Środowisko programistyczne.",
+  "pytanie" : "Jaki program komputerowy przekształca kod źródłowy, napisany w konkretnym języku programowania, na język komputera?",
+  "roz" : "Kompilator."
+}, {
+  "Id" : "36",
+  "img_url" : "0",
+  "odp1" : "Interpreter.",
+  "odp2" : "Kompilator.",
+  "odp3" : "Konwerter kodu.",
+  "odp4" : "Konwerter języka.",
+  "pytanie" : "Jak nazywa się program, który wykonuje instrukcje zawarte w kodzie źródłowym tworzonego programu bez uprzedniego generowania programu wynikowego?",
+  "roz" : "Interpreter."
+}, {
+  "Id" : "37",
+  "img_url" : "0",
+  "odp1" : " C#",
+  "odp2" : "Perl",
+  "odp3" : "PHP",
+  "odp4" : "JavaScript",
+  "pytanie" : "Który język skryptowy ogólnego przeznaczenia należy wykorzystać do tworzenia aplikacji WWW, zagnieżdżonych w języku HTML i uruchamianych po stronie serwera?",
+  "roz" : "PHP"
+}, {
+  "Id" : "38",
+  "img_url" : "0",
+  "odp1" : "PHP",
+  "odp2" : "XML",
+  "odp3" : "AJAX",
+  "odp4" : "VBScript",
+  "pytanie" : "Jak nazywa się technika umożliwiająca otwarcie połączenia klienta z serwerem i komunikację bez przeładowywania całej strony WWW w sposób asynchroniczny?",
+  "roz" : "AJAX"
+}, {
+  "Id" : "39",
+  "img_url" : "0",
+  "odp1" : "Infrastruktura językowa (CLI).",
+  "odp2" : "Biblioteka klas bazowych (BCL).",
+  "odp3" : "Wspólne środowisko programistyczne (CLP).",
+  "odp4" : "Wspólne środowisko uruchomieniowe (CLR).",
+  "pytanie" : "Jak nazywa się element oznaczony znakiem zapytania w strukturze platformy .NET, który umożliwia tworzenie własnych aplikacji z użyciem frameworków i zamianę kompilowanego kodu pośredniego na kod maszynowy procesora zainstalowanego w komputerze?",
+  "roz" : "Wspólne środowisko uruchomieniowe (CLR)."
+}, {
+  "Id" : "40",
+  "odp1" : "Mechanizm wykonywania aplikacji dla bibliotek klas.",
+  "odp2" : "Mechanizm wykonywania aplikacji realizowany przez frameworki aplikacji internetowych (ASP.NET).",
+  "odp3" : "Mechanizm wykonywania aplikacji realizowany przez funkcję Windows API (Application Programming Interface).",
+  "odp4" : "Mechanizm wykonywania aplikacji oparty na uprawnieniach kodu (CAS - Code Access Security) i na rolach (RBS - Role-Based Security).",
+  "pytanie" : "Jakiego rodzaju mechanizm kontroli bezpieczeństwa wykonywania aplikacji zawiera środowisko uruchomieniowe platformy .NET Framework?",
+  "roz" : "Mechanizm wykonywania aplikacji oparty na uprawnieniach kodu (CAS - Code Access Security) i na rolach (RBS - Role-Based Security)."
+},
+{
+  "Id" : "41",
+  "odp1" : "<a href='mailto:adres'>tekst</a>",
+  "odp2" : "<a href='http://:adres'>tekst</a>",
+  "odp3" : "<a href=“http://adres“>tekst</a>",
+  "odp4" : "<a href="mailto:adres">tekst</a>",
+  "pytanie" : "Który z odsyłaczy posiada poprawną konstrukcję?",
+  "roz" : "<a href="mailto:adres">tekst</a>"
+} 
+
+]
