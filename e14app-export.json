@@ -357,5 +357,178 @@
   "odp4" : "Mechanizm wykonywania aplikacji oparty na uprawnieniach kodu (CAS - Code Access Security) i na rolach (RBS - Role-Based Security).",
   "pytanie" : "Jakiego rodzaju mechanizm kontroli bezpieczeństwa wykonywania aplikacji zawiera środowisko uruchomieniowe platformy .NET Framework?",
   "roz" : "Mechanizm wykonywania aplikacji oparty na uprawnieniach kodu (CAS - Code Access Security) i na rolach (RBS - Role-Based Security)."
-}] 
-kokiiujik9i
+}, {
+  "Id" : "41",
+  "odp1" : "<a href='mailto:adres'>tekst</a>",
+  "odp2" : "<a href='http://:adres'>tekst</a>",
+  "odp3" : "<a href=“http://adres“>tekst</a>",
+  "odp4" : "<a href="mailto:adres">tekst</a>",
+  "pytanie" : "Który z odsyłaczy posiada poprawną konstrukcję?  ",
+  "roz" : "<a href="mailto:adres">tekst</a>"
+}, {
+  "Id" : "42",
+  "odp1" : "wypunktowaną.",
+  "odp2" : "numerowaną.",
+  "odp3" : "<odnośników.",
+  "odp4" : "skrótów.    ",
+  "pytanie" : "Fragment kodu napisany w języku HTML zamieszczony w ramce przedstawia listę    ",
+  "roz" : "numerowaną."
+}, {
+  "Id" : "43",
+  "odp1" : "rys. A",
+  "odp2" : "rys. B",
+  "odp3" : "rys. C",
+  "odp4" : "rys. D",
+  "pytanie" : "Polecenie colspan służy do łączenia komórek tabeli w poziomie, natomiast rowspan w pionie. Którą z tabel wyświetli fragment kodu napisanego w języku HTML?
+  <table border="1" cellspaing="0" cellpadding="10" 
+  <tr> <td rowspan="2">&nbsp</td> <td>&nbsp</td> </tr>
+  <tr> <td>&nbsp</td> </tr>
+  </table>",
+  "roz" : "rys. B"
+}, {
+  "Id" : "44",
+  "odp1" : "autora.",
+  "odp2" : "kodowania.",
+  "odp3" : "typu dokumentu.",
+  "odp4" : "automatycznego odświeżania.",
+  "pytanie" : "W znaczniku <meta ...> (w części <meta ...>) strony WWW nie umieszcza się informacji dotyczących",
+  "roz" : "typu dokumentu."
+}, {
+  "Id" : "45",
+  "odp1" : "<link rel="stylesheet" type="text/css" href="./style/default.css" />",
+  "odp2" : "<link rel="stylesheet" type="text/css" href="c:/style/default.css" />",
+  "odp3" : "<link rel="stylesheet" type="text/css" href="...\style\default.css" />",
+  "odp4" : "<link rel="stylesheet" type="text/css" href="c:\style/default.css" />",
+  "pytanie" : "Wskaż sposób, w jaki należy odwołać się do pliku default.css, jeśli index.html znajduje się bezpośrednio w katalogu Strona?",
+  "roz" : "<link rel="stylesheet" type="text/css" href="./style/default.css" />" 
+}, {
+  "Id" : "46",
+  "odp1" : "Jest to styl lokalny.",
+  "odp2" : " Zdefiniowano dwie klasy.",
+  "odp3" : "Akapit będzie transponowany na małe litery.",
+  "odp4" : "Odnośnik będzie pisany czcionką 14 punktów.",
+  "pytanie" : "Wskaż stwierdzenie, które jest prawdziwe dla następującej definicji stylu:
+  <STYLE type="text/css">
+  <!--
+  P {color:blue; font-size:14pt; font-style:italic;}
+  A {font-size:16pt; text-transform:lowercase;}
+  TD.niebieski {color:blue}
+  TD.czerwony {color:red}
+  -->
+  </STYLE>",
+  "roz" : " Zdefiniowano dwie klasy."
+}, {
+  "Id" : "47",
+  "odp1" : "#FF00FF",
+  "odp2" : "#00FFFF",
+  "odp3" : "#FFFF00",
+  "odp4" : "#F0F0F0",
+  "pytanie" : "W palecie kolorów RGB kolor żółty jest połączeniem dwóch kolorów: zielonego i czerwonego. Który z kodów szesnastkowych oznacza żółty?",
+  "roz" : "#FFFF00"
+}, {
+  "Id" : "48",
+  "odp1" : "GIF",
+  "odp2" : "ACE",
+  "odp3" : "SWF",
+  "odp4" : "SVG",
+  "pytanie" : "Który z formatów nie pozwala na zapis plików animowanych?",
+  "roz" : "ACE"
+}, {
+  "Id" : "49",
+  "odp1" : "GIF",
+  "odp2" : "RAW",
+  "odp3" : "BMP",
+  "odp4" : "JPEG",
+  "pytanie" : "Który z formatów graficznych pozwala na zapis przejrzystego tła?",
+  "roz" : "GIF"
+}, {
+  "Id" : "50",
+  "odp1" : "zespół działań mających na celu zwiększenie oglądalności.",
+  "odp2" : "sprawdzenie jej w celu wyeliminowania błędów.",
+  "odp3" : "publikowanie w sieci.",
+  "odp4" : "promocja strony.",
+  "pytanie" : "Proces walidacji strony internetowej to",
+  "roz" : "sprawdzenie jej w celu wyeliminowania błędów."
+}, {
+  "Id" : "51",
+  "odp1" : "Joomla",
+  "odp2" : "Apache",
+  "odp3" : "Mambo",
+  "odp4" : "WordPress",
+  "pytanie" : "Które oprogramowanie nie jest systemem zarządzania treścią (CMS)?",
+  "roz" : "Apache"
+}, {
+  "Id" : "52",
+  "odp1" : "WAV",
+  "odp2" : "PCM",
+  "odp3" : "MP3",
+  "odp4" : "CD-Audio",
+  "pytanie" : "Który z formatów zapewnia największą redukcję rozmiaru pliku dźwiękowego?",
+  "roz" : "MP3"  
+}, {
+  "Id" : "53",
+  "odp1" : "Określenie celu, utworzenie relacji, stworzenie tabel, normalizacja.",
+  "odp2" : "Określenie celu, normalizacja, utworzenie relacji, stworzenie tabel.",
+  "odp3" : "Określenie celu, stworzenie tabel, utworzenie relacji, normalizacja.",
+  "odp4" : "Określenie celu, normalizacja, stworzenie tabel, utworzenie relacji.",
+  "pytanie" : "Wskaż prawidłową kolejność tworzenia bazy danych",
+  "roz" : "Określenie celu, stworzenie tabel, utworzenie relacji, normalizacja."
+}, {
+  "Id" : "54",
+  "odp1" : "Jeden do jednego.",
+  "odp2" : "Wiele do jednego.",
+  "odp3" : "Jeden do wielu",
+  "odp4" : "Wiele do wielu",
+  "pytanie" : "Wskaż typ relacji pomiędzy tabelami: Tabela1 i Tabela3",
+  "roz" : "Wiele do wielu"
+}, {
+  "Id" : "55",
+  "odp1" : "Textarea, Option, Input(Checkbox), Input(Checkbox), Input(Submit), Input(Reset)"
+  "odp2" : "Input(Text), Select, Input(Radio), Input(Radio), Input(Submit), Input(Reset)",
+  "odp3" : "Textarea, Select, Input(Radio), Input(Radio), Input(Reset), Input(Submit)",
+  "odp4" : "Input(Text), Input(Checkbox), Select, Select, Input(Submit), Input(Reset)",
+  "pytanie" : "Wskaż typ relacji pomiędzy tabelami: Tabela1 i Tabela3",
+  "roz" : "Input(Text), Select, Input(Radio), Input(Radio), Input(Submit), Input(Reset)"
+}, {
+  "Id" : "57",
+  "odp1" : "LIKE"
+  "odp2" : "DISTINCT",
+  "odp3" : "ORDER BY",
+  "odp4" : "GROUP BY",
+  "pytanie" : "Które ze słów kluczowych języka SQL należy użyć, aby wyeliminować duplikaty?",
+  "roz" : "DISTINCT"
+}, {
+  "Id" : "57",
+  "odp1" : "LIKE"
+  "odp2" : "DISTINCT",
+  "odp3" : "ORDER BY",
+  "odp4" : "GROUP BY",
+  "pytanie" : "Które ze słów kluczowych języka SQL należy użyć, aby wyeliminować duplikaty?",
+  "roz" : "DISTINCT"
+}, {
+  "Id" : "58",
+  "odp1" : "Tabela o nazwie dane posiada trzy kolumny liczb całkowitych."
+  "odp2" : "Tabela o nazwie dane posiada jedną kolumnę liczb całkowitych.",
+  "odp3" : "Tabela posiada jedną kolumnę zawierającą trzyelementowe tablice.",
+  "odp4" : "Kolumny tabeli dane nazywają się: kolumna1, kolumna2, kolumna3.",
+  "pytanie" : "Które ze stwierdzeń prawidłowo charakteryzuje zdefiniowaną tabelę?
+  CREATE TABLE dane(kolumna INTEGER(3));",
+  "roz" : "Tabela o nazwie dane posiada jedną kolumnę liczb całkowitych."
+}, {
+  "Id" : "59",
+  "odp1" : "nadawanie uprawnień z użyciem zdefiniowanego schematu."
+  "odp2" : "odbieranie uprawnień użytkownikowi.",
+  "odp3" : "usuwanie użytkownika z bazy",
+  "odp4" : "nadawanie praw do tabeli.",
+  "pytanie" : "Polecenie REVOKE SELECT ON nazwa1 FROM nazwa2 w języku SQL umożliwia",
+  "roz" : "odbieranie uprawnień użytkownikowi."
+}, {
+  "Id" : "60",
+  "odp1" : "mysqlcheck"
+  "odp2" : "mysqldump",
+  "odp3" : "truncate",
+  "odp4" : "create",
+  "pytanie" : "Które polecenie wydane z konsoli systemu operacyjnego, zawierające w swojej składni opcję --repair, umożliwia naprawę bazy danych?",
+  "roz" : "mysqlcheck"
+  
+  
