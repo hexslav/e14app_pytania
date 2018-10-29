@@ -362,9 +362,9 @@
   "odp1" : "<a href='mailto:adres'>tekst</a>",
   "odp2" : "<a href='http://:adres'>tekst</a>",
   "odp3" : "<a href=“http://adres“>tekst</a>",
-  "odp4" : "<a href="mailto:adres">tekst</a>",
+  "odp4" : "<a href=\"mailto:adres\">tekst</a>",
   "pytanie" : "Który z odsyłaczy posiada poprawną konstrukcję?  ",
-  "roz" : "<a href="mailto:adres">tekst</a>"
+  "roz" : "<a href=\"mailto:adres\">tekst</a>"
 }, {
   "Id" : "42",
   "odp1" : "wypunktowaną.",
@@ -379,11 +379,7 @@
   "odp2" : "rys. B",
   "odp3" : "rys. C",
   "odp4" : "rys. D",
-  "pytanie" : "Polecenie colspan służy do łączenia komórek tabeli w poziomie, natomiast rowspan w pionie. Którą z tabel wyświetli fragment kodu napisanego w języku HTML?
-  <table border="1" cellspaing="0" cellpadding="10" 
-  <tr> <td rowspan="2">&nbsp</td> <td>&nbsp</td> </tr>
-  <tr> <td>&nbsp</td> </tr>
-  </table>",
+  "pytanie" : "Polecenie colspan służy do łączenia komórek tabeli w poziomie, natomiast rowspan w pionie. Którą z tabel wyświetli fragment kodu napisanego w języku HTML? <table border=\"1\" cellspaing=\"0\" cellpadding=\"10\"  <tr> <td rowspan=\"2\">&nbsp</td> <td>&nbsp</td> </tr> <tr> <td>&nbsp</td> </tr> </table>",
   "roz" : "rys. B"
 }, {
   "Id" : "44",
@@ -395,27 +391,19 @@
   "roz" : "typu dokumentu."
 }, {
   "Id" : "45",
-  "odp1" : "<link rel="stylesheet" type="text/css" href="./style/default.css" />",
-  "odp2" : "<link rel="stylesheet" type="text/css" href="c:/style/default.css" />",
-  "odp3" : "<link rel="stylesheet" type="text/css" href="...\style\default.css" />",
-  "odp4" : "<link rel="stylesheet" type="text/css" href="c:\style/default.css" />",
+  "odp1" : "<link rel=\"stylesheet\" type=\"text/css\" href=\"./style/default.css\" />",
+  "odp2" : "<link rel=\"stylesheet\" type=\"text/css\" href=\"c:/style/default.css\" />",
+  "odp3" : "<link rel=\"stylesheet\" type=\"text/css\" href=\"...\\style\\default.css\" />",
+  "odp4" : "<link rel=\"stylesheet\" type=\"text/css\" href=\"c:\\style/default.css\" />",
   "pytanie" : "Wskaż sposób, w jaki należy odwołać się do pliku default.css, jeśli index.html znajduje się bezpośrednio w katalogu Strona?",
-  "roz" : "<link rel="stylesheet" type="text/css" href="./style/default.css" />" 
+  "roz" : "<link rel=\"stylesheet\" type=\"text/css\" href=\"./style/default.css\" />" 
 }, {
   "Id" : "46",
   "odp1" : "Jest to styl lokalny.",
   "odp2" : " Zdefiniowano dwie klasy.",
   "odp3" : "Akapit będzie transponowany na małe litery.",
   "odp4" : "Odnośnik będzie pisany czcionką 14 punktów.",
-  "pytanie" : "Wskaż stwierdzenie, które jest prawdziwe dla następującej definicji stylu:
-  <STYLE type="text/css">
-  <!--
-  P {color:blue; font-size:14pt; font-style:italic;}
-  A {font-size:16pt; text-transform:lowercase;}
-  TD.niebieski {color:blue}
-  TD.czerwony {color:red}
-  -->
-  </STYLE>",
+  "pytanie" : "Wskaż stwierdzenie, które jest prawdziwe dla następującej definicji stylu: <STYLE type=\"text/css\"> <!-- P {color:blue; font-size:14pt; font-style:italic;}A {font-size:16pt; text-transform:lowercase;} TD.niebieski {color:blue} TD.czerwony {color:red} --> </STYLE>",
   "roz" : " Zdefiniowano dwie klasy."
 }, {
   "Id" : "47",
@@ -511,8 +499,7 @@
   "odp2" : "Tabela o nazwie dane posiada jedną kolumnę liczb całkowitych.",
   "odp3" : "Tabela posiada jedną kolumnę zawierającą trzyelementowe tablice.",
   "odp4" : "Kolumny tabeli dane nazywają się: kolumna1, kolumna2, kolumna3.",
-  "pytanie" : "Które ze stwierdzeń prawidłowo charakteryzuje zdefiniowaną tabelę?
-  CREATE TABLE dane(kolumna INTEGER(3));",
+  "pytanie" : "Które ze stwierdzeń prawidłowo charakteryzuje zdefiniowaną tabelę? CREATE TABLE dane(kolumna INTEGER(3));",
   "roz" : "Tabela o nazwie dane posiada jedną kolumnę liczb całkowitych."
 }, {
   "Id" : "59",
@@ -556,12 +543,12 @@
   "roz" : "ksort()"
 }, {
   "Id" : "64",
-  "odp1" : "cookie("owoce", "jabłko", 3600);",
-  "odp2" : "cookie("jabłko", "owoce", 3600);",
-  "odp3" : "setcookie("owoce", "jabłko", time()+3600);",
-  "odp4" : "setcookie("jabłko", "owoce", time()+3600);",
-  "pytanie" : "W skrypcie PHP należy utworzyć cookie o nazwie "owoce", które przyjmie wartość "jabłko". Cookie ma być dostępne przez jedną godzinę od jego utworzenia. W tym celu należy w skrypcie PHP użyć funkcji:",
-  "roz" : "setcookie("owoce", "jabłko", time()+3600);"}, {
+  "odp1" : "cookie(\"owoce\", \"jabłko\", 3600);",
+  "odp2" : "cookie(\"jabłko\", \"owoce\", 3600);",
+  "odp3" : "setcookie(\"owoce\", \"jabłko\", time()+3600);",
+  "odp4" : "setcookie(\"jabłko\", \"owoce\", time()+3600);",
+  "pytanie" : "W skrypcie PHP należy utworzyć cookie o nazwie \"owoce\", które przyjmie wartość \"jabłko\". Cookie ma być dostępne przez jedną godzinę od jego utworzenia. W tym celu należy w skrypcie PHP użyć funkcji:",
+  "roz" : "setcookie(\"owoce\", \"jabłko\", time()+3600);"}, {
 }, {
   "Id" : "65",
   "odp1" : "long",
@@ -592,14 +579,7 @@
   "odp2" : "rys B",
   "odp3" : "rys. C",
   "odp4" : "rys. D",
-  "pytanie" : "28. Wskaż wynik wykonania skryptu napisanego w języku  PHP 
-  <?php
-  $tablica=array(10=>"Perl",14=>"PHP",20=>"Python",22=>"Pike");
-  asort($tablica);
-  print("<pre>");
-  print_r($tablica);
-  print("</pre>");
-  ?>",
+  "pytanie" : "28. Wskaż wynik wykonania skryptu napisanego w języku  PHP  <?php $tablica=array(10=>\"Perl\",14=>\"PHP\",20=>\"Python\",22=>\"Pike\");  asort($tablica); print(\"<pre>\"); print_r($tablica);  print(\"</pre>\"); ?>",
   "roz" : "rys. A"
 }, {
   "Id" : "69",
@@ -623,12 +603,7 @@
   "odp2" : "Funkcja nie zwraca wartości.",
   "odp3" : "Funkcja posiada dwa parametry.",
   "odp4" : "Funkcja odwołuje się do parametrów przez referencję.",
-  "pytanie" : "Wskaż stwierdzenie, które nie jest prawdziwe dla następującej definicji funkcji w języku C++?
-  void zamien(float&x, float &y){
-       float tmp;
-      tmp=x;
-      x=y;
-      y=tmp;}",
+  "pytanie" : "Wskaż stwierdzenie, które nie jest prawdziwe dla następującej definicji funkcji w języku C++? void zamien(float&x, float &y){ float tmp; tmp=x;  x=y;  y=tmp;}",
   "roz" : "Funkcja zwraca wartość."
 }, {
   "Id" : "72",
@@ -652,9 +627,7 @@
   "odp2" : "4",
   "odp3" : "3.5",
   "odp4" : "4.05",
-  "pytanie" : "Jaką wartość zwróci funkcja zao zdefiniowana w języku C++, wywołana z aktualnym parametrem 3.5);
-  int zao(float x){
-  return(x+0.5);}",
+  "pytanie" : "Jaką wartość zwróci funkcja zao zdefiniowana w języku C++, wywołana z aktualnym parametrem 3.5); int zao(float x){ return(x+0.5);}",
   "roz" : "4"
 }, {
   "Id" : "75",
@@ -686,7 +659,7 @@
   "odp2" : "liczbowego.",
   "odp3" : "string (ciąg znaków).",
   "odp4" : "nieokreślonego (undefined).",
-  "pytanie" : "Poprzez deklarację var x="true"; w języku JavaScript tworzy się zmienną typu",
+  "pytanie" : "Poprzez deklarację var x=\"true\"; w języku JavaScript tworzy się zmienną typu",
   "roz" : "string (ciąg znaków)."
 }, {
   "Id" : "79",
@@ -706,12 +679,12 @@
   "roz" : "debugowanie."
 }, {
   "Id" : "81",
-  "odp1" : "<background=""></background>",
-  "odp2" : "<body bgcolor=""></body>",
-  "odp3" : "<bgcolor=""></bgcolor>",
-  "odp4" : "<body background=""></body>",
+  "odp1" : "<background=\"\"></background>",
+  "odp2" : "<body bgcolor=\"\"></body>",
+  "odp3" : "<bgcolor=\"\"></bgcolor>",
+  "odp4" : "<body background=\"\"></body>",
   "pytanie" : "Aby ustawić tło na stronie www należy użyć polecenia",
-  "roz" : "<body bgcolor=""></body>"
+  "roz" : "<body bgcolor=\"\"></body>"
 }, {
   "Id" : "82",
   "odp1" : "barwy czcionki.",
@@ -854,9 +827,7 @@
   "odp2" : "imion,  numerów PESEL i wieku osób z przedziału od 18 do 30 lat.",
   "odp3" : "imion, numerów PESEL i wieku osób posiadających powyżej 30 lat.",
   "odp4" : "imion, numerów PESEL i wieku osób w wieku  równym 18 lub 30 lat.",
-  "pytanie" : "Kod
-  SELECT imie, pesel, wiek FROM dane WHERE wiek IN (18,30)
-spowoduje wybranie",
+  "pytanie" : "Kod  SELECT imie, pesel, wiek FROM dane WHERE wiek IN (18,30) spowoduje wybranie",
   "roz" : "imion, numerów PESEL i wieku osób w wieku  równym 18 lub 30 lat."
 }, {
   "Id" : "100",
@@ -865,4 +836,6 @@ spowoduje wybranie",
   "odp3" : "SELECT COUNT(Koty) AS ROWNUM",
   "odp4" : "SELECT COUNT(ROWNUM) FROM Koty",
   "pytanie" : "Aby policzyć wszystkie wiersze tabeli Koty należy użyć polecenia",
-  "roz" : "SELECT COUNT(*) FROM Kotyy"
+  "roz" : "SELECT COUNT(*) FROM Koty"} 
+
+] 
