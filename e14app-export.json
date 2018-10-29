@@ -530,5 +530,339 @@
   "odp4" : "create",
   "pytanie" : "Które polecenie wydane z konsoli systemu operacyjnego, zawierające w swojej składni opcję --repair, umożliwia naprawę bazy danych?",
   "roz" : "mysqlcheck"
-  
-  
+}, {
+  "Id" : "61",
+  "odp1" : "mysqldump -u root -p  baza > kopia.sql"
+  "odp2" : "mysqldump -u root -p baza < kopia.sql",
+  "odp3" : "mysql -u root -p baza < kopia.sql",
+  "odp4" : "mysql -u root -p baza > kopia.sql",
+  "pytanie" : "Które polecenie wydane z konsoli systemowej dokona przywrócenia bazy danych?",
+  "roz" : "mysql -u root -p baza < kopia.sql"
+}, {
+  "Id" : "62",
+  "odp1" : "nadaje uprawnienie grupie klienci do tabeli pracownik."
+  "odp2" : "odbiera wszystkie uprawnienia pracownikowi do tabeli klienci.",
+  "odp3" : "skopiuje uprawnienia z grupy klienci na użytkownika pracownik.",
+  "odp4" : "nadaje wszystkie uprawnienia do tabeli klienci użytkownikowi pracownik.",
+  "pytanie" : "Polecenie w języku SQL GRANT ALL PRIVILEGES ON klienci to pracownik",
+  "roz" : "nadaje wszystkie uprawnienia do tabeli klienci użytkownikowi pracownik."
+}, {
+  "Id" : "63",
+  "odp1" : "sort()"
+  "odp2" : "rsort()",
+  "odp3" : "asort()",
+  "odp4" : "ksort()",
+  "pytanie" : "Która z wymienionych funkcji sortowania, wykorzystywana w języku PHP, sortuje tablicę asocjacyjną według indeksów?",
+  "roz" : "ksort()"
+}, {
+  "Id" : "64",
+  "odp1" : "cookie("owoce", "jabłko", 3600);"
+  "odp2" : "cookie("jabłko", "owoce", 3600);",
+  "odp3" : "setcookie("owoce", "jabłko", time()+3600);",
+  "odp4" : "setcookie("jabłko", "owoce", time()+3600);",
+  "pytanie" : "W skrypcie PHP należy utworzyć cookie o nazwie "owoce", które przyjmie wartość "jabłko". Cookie ma być dostępne przez jedną godzinę od jego utworzenia. W tym celu należy w skrypcie PHP użyć funkcji:",
+  "roz" : "setcookie("owoce", "jabłko", time()+3600);"}, {
+}, {
+  "Id" : "65",
+  "odp1" : "long"
+  "odp2" : "const",
+  "odp3" : "short",
+  "odp4" : "unsigned",
+  "pytanie" : "Wskaż słowo kluczowe w języku C++ dodawane przed wbudowanym typem danych, które przesuwa zakres na liczby wyłącznie nieujemne.",
+  "roz" : "unsigned"
+}, {
+  "Id" : "66",
+  "odp1" : "logiczny."
+  "odp2" : "znakowy.",
+  "odp3" : "tablicowy.",
+  "odp4" : "łańcuchowy.",
+  "pytanie" : "W językach programowania tylko zmienna jednego typu wbudowanego może przyjmować wyłącznie dwie wartości. Jest to typ",
+  "roz" : "logiczny."
+}, {
+  "Id" : "67",
+  "odp1" : "pkt Punkt;"
+  "odp2" : "pkt= new Punkt();",
+  "odp3" : "pkt Punkt();",
+  "odp4" : "Punkt() pkt;",
+  "pytanie" : "Instrukcja języka PHP tworząca obiekt pkt dla zdefiniowanej w ramce klasy Punkt ma postać",
+  "roz" : "pkt= new Punkt();"
+}, {
+  "Id" : "68",
+  "odp1" : "rys. A"
+  "odp2" : "rys B",
+  "odp3" : "rys. C",
+  "odp4" : "rys. D",
+  "pytanie" : "28. Wskaż wynik wykonania skryptu napisanego w języku  PHP 
+  <?php
+  $tablica=array(10=>"Perl",14=>"PHP",20=>"Python",22=>"Pike");
+  asort($tablica);
+  print("<pre>");
+  print_r($tablica);
+  print("</pre>");
+  ?>",
+  "roz" : "rys. A"
+}, {
+  "Id" : "69",
+  "odp1" : "C++ jest językiem obiektowym."
+  "odp2" : "JavaScript jest językiem skryptowym.",
+  "odp3" : "SQL jest językiem programowania strukturalnego.",
+  "odp4" : "PHP jest językiem do tworzenia stron w czasie rzeczywistym.",
+  "pytanie" : "Które ze stwierdzeń dotyczących języków programowania nie jest prawdziwe?",
+  "roz" : "SQL jest językiem programowania strukturalnego."
+}, {
+  "Id" : "70",
+  "odp1" : "0"
+  "odp2" : "2",
+  "odp3" : "3",
+  "odp4" : "32",
+  "pytanie" : "Jaka wartość zostanie wypisana na standardowym wyjściu dla zamieszczonego w ramce fragmentu programu napisanego w języku C++?",
+  "roz" : "3"
+}, {
+  "Id" : "71",
+  "odp1" : "Funkcja zwraca wartość."
+  "odp2" : "Funkcja nie zwraca wartości.",
+  "odp3" : "Funkcja posiada dwa parametry.",
+  "odp4" : "Funkcja odwołuje się do parametrów przez referencję.",
+  "pytanie" : "Wskaż stwierdzenie, które nie jest prawdziwe dla następującej definicji funkcji w języku C++?
+  void zamien(float&x, float &y){
+       float tmp;
+      tmp=x;
+      x=y;
+      y=tmp;}",
+  "roz" : "Funkcja zwraca wartość."
+}, {
+  "Id" : "72",
+  "odp1" : "parametr formalny typu rzeczywistego."
+  "odp2" : "zmienna rzeczywista.",
+  "odp3" : "zmienna całkowita.",
+  "odp4" : "wskaźnik.",
+  "pytanie" : "Element zadeklarowany w języku C++ double x*; to",
+  "roz" : "wskaźnik."
+}, {
+  "Id" : "73",
+  "odp1" : "Specyfikacja wymagań, analiz wymagań klienta, tworzenie, wdrażanie, testy."
+  "odp2" : "Analiza wymagań klienta, specyfikacja wymagań, tworzenie, testy, wdrażanie.",
+  "odp3" : "Tworzenie, analiza wymagań klienta, specyfikacja wymagań, wdrażanie, testy",
+  "odp4" : "Analiza wymagań klienta, specyfikacja wymagań, tworzenie, wdrażanie, testy.",
+  "pytanie" : "Wskaż prawidłową kolejność tworzenia aplikacji",
+  "roz" : "Analiza wymagań klienta, specyfikacja wymagań, tworzenie, testy, wdrażanie."
+}, {
+  "Id" : "74",
+  "odp1" : "3"
+  "odp2" : "4",
+  "odp3" : "3.5",
+  "odp4" : "4.05",
+  "pytanie" : "Jaką wartość zwróci funkcja zao zdefiniowana w języku C++, wywołana z aktualnym parametrem 3.5);
+  int zao(float x){
+  return(x+0.5);}",
+  "roz" : "4"
+}, {
+  "Id" : "75",
+  "odp1" : "debugowanie."
+  "odp2" : "uruchamianie",
+  "odp3" : "kompilowanie.",
+  "odp4" : "implementowanie.",
+  "pytanie" : "Proces tłumaczenia kodu źródłowego pisanego przez programistę na zrozumiały dla komputera kod maszynowy to",
+  "roz" : "kompilowanie."
+}, {
+  "Id" : "76",
+  "odp1" : "Pętla wykona się tylko raz."
+  "odp2" : "Funkcja posiada pętlę powtarzającą się 3 razy.",
+  "odp3" : "Tekst będzie wczytywany do momentu podania liczby większej niż 3.",
+  "odp4" : "Wczytywanie tekstu zakończy się, gdy tekst będzie się składał przynajmniej z 3 znaków.",
+  "pytanie" : "Które ze stwierdzeń, w odniesieniu do zamieszczonej w ramce definicji funkcji, jest poprawne?",
+  "roz" : "Wczytywanie tekstu zakończy się, gdy tekst będzie się składał przynajmniej z 3 znaków."
+}, {
+  "Id" : "77",
+  "odp1" : "12,4"
+  "odp2" : "12,5",
+  "odp3" : "15,4",
+  "odp4" : "15,5",
+  "pytanie" : "Po wykonaniu zamieszczonego w ramce skryptu napisanego w języku JavaScript w przeglądarce zostanie wypisana wartość",
+  "roz" : "12,5"
+}, {
+  "Id" : "78",
+  "odp1" : "logicznego."
+  "odp2" : "liczbowego.",
+  "odp3" : "string (ciąg znaków).",
+  "odp4" : "nieokreślonego (undefined).",
+  "pytanie" : "Poprzez deklarację var x="true"; w języku JavaScript tworzy się zmienną typu",
+  "roz" : "string (ciąg znaków)."
+}, {
+  "Id" : "79",
+  "odp1" : "db2"
+  "odp2" : "eclipse",
+  "odp3" : "framework",
+  "odp4" : "middleware",
+  "pytanie" : "Platforma wspierająca programowanie w technologii .NET to",
+  "roz" : "framework"
+}, {
+  "Id" : "80",
+  "odp1" : "kompilowanie"
+  "odp2" : "debugowanie.",
+  "odp3" : "standaryzacja.",
+  "odp4" : "normalizacja.",
+  "pytanie" : "Proces, w którym wykrywa się i usuwa błędy w kodzie źródłowym programow, to",
+  "roz" : "debugowanie."
+}, {
+  "Id" : "81",
+  "odp1" : "<background=""></background>"
+  "odp2" : "<body bgcolor=""></body>",
+  "odp3" : "<bgcolor=""></bgcolor>",
+  "odp4" : "<body background=""></body>",
+  "pytanie" : "Aby ustawić tło na stronie www należy użyć polecenia",
+  "roz" : "<body bgcolor=""></body>"
+}, {
+  "Id" : "82",
+  "odp1" : "barwy czcionki."
+  "odp2" : "nazwy czcionki.",
+  "odp3" : "efektów czcionki",
+  "odp4" : "wielkości czcionki",
+  "pytanie" : "Parametr face znacznika <font> służy do określenia",
+  "roz" : "nazwy czcionki."
+}, {
+  "Id" : "83",
+  "odp1" : "symboli matematycznych"
+  "odp2" : "polskich liter, takich jak: ś, ć, ń, ó, ą.",
+  "odp3" : "znaków specjalnych dla języka kodów strony.",
+  "odp4" : "znaków zarezerwowanych dla języka opisu strony.",
+  "pytanie" : "Kodowanie  w standardzie ISO-8859-2 stosowane jest w celu poprawnego wyświetlania",
+  "roz" : "polskich liter, takich jak: ś, ć, ń, ó, ą."
+}, {
+  "Id" : "84",
+  "odp1" : "dwóch wierszy i dwóch kolumn."
+  "odp2" : "dwóch wierszy i jednej kolumny.",
+  "odp3" : "jednego wiersza i dwóch kolumn.",
+  "odp4" : "jednego wiersza i jednej kolumny.",
+  "pytanie" : "Zamieszczony w ramce kod wyświetla tabelę składającą się z",
+  "roz" : "jednego wiersza i dwóch kolumn."
+}, {
+  "Id" : "85",
+  "odp1" : "ułatwienia użytkownikowi nawigacji."
+  "odp2" : "uzupełnienia strony internetowej o treści tekstowe.",
+  "odp3" : "przyśpieszenia wyświetlania grafiki na stronie internetowej.",
+  "odp4" : "definiowania sposobu formatowania elementów strony internetowej.",
+  "pytanie" : "Kaskadowe arkusze stylów tworzy się w celu",
+  "roz" : "definiowania sposobu formatowania elementów strony internetowej."
+}, {
+  "Id" : "86",
+  "odp1" : "open."
+  "odp2" : "import.",
+  "odp3" : "require.",
+  "odp4" : "include.",
+  "pytanie" : "Które polecenie w CSS służy do załączenia zewnętrzneo arkusza stylów?",
+  "roz" : "import."
+}, {
+  "Id" : "87",
+  "odp1" : "klasę"
+  "odp2" : "pseudoklasę.",
+  "odp3" : "identyfikator",
+  "odp4" : "pseudoelement.",
+  "pytanie" : "Selektor CSS a:link {color:red} zawarty w kaskadowych arkuszach stylów definiuje",
+  "roz" : "pseudoklasę."
+}, {
+  "Id" : "88",
+  "odp1" : "IDE"
+  "odp2" : "WYSIWYG",
+  "odp3" : "WEB STUDIO",
+  "odp4" : "VISUAL EDITOR",
+  "pytanie" : "Jak nazywa się edytor wspomagający tworzenie stron internetowych, którego sposób działania można w polskim tłumaczeniu określić jako "otrzymujesz to, co widzisz"?",
+  "roz" : "WYSIWYG"
+}, {
+  "Id" : "89",
+  "odp1" : "#2551212"
+  "odp2" : "#EE0C0C",
+  "odp3" : "#AB1A1D",
+  "odp4" : "#FF0C0C",
+  "pytanie" : "Kolor 255 12 12 w modelu RGB na stronie www powinien być zapisany w postaci"
+  "roz" : "#FF0C0C"
+}, {
+  "Id" : "90",
+  "odp1" : "turkusowego, błękitnego, białego, różowego"
+  "odp2" : "turkusowego, purpurowego, białego, czarnego",
+  "odp3" : "czerwonego, purpurowego, żółtego, szarego",
+  "odp4" : "turkusowego, purpurowego, żółtego, czarnego",
+  "pytanie" : "CMYK to zestaw czterech podstawowych kolorów farb drukarskich:"
+  "roz" : "turkusowego, purpurowego, żółtego, czarnego"
+}, {
+  "Id" : "91",
+  "odp1" : "obsługa animacji."
+  "odp2" : "bezstratna kompresja.",
+  "odp3" : "brak obsługi kanału alfa.",
+  "odp4" : "reprezentacja grafiki wektorowej.",
+  "pytanie" : "Cechą formatu PNG jest"
+  "roz" : "bezstratna kompresja."
+}, {
+  "Id" : "92",
+  "odp1" : "jasnością koloru"
+  "odp2" : "nasyceniem koloru.",
+  "odp3" : "dopełnieniem koloru.",
+  "odp4" : "przeźroczystością koloru.",
+  "pytanie" : "Saturacja koloru nazywana jest inaczej"
+  "roz" : "nasyceniem koloru."
+}, {
+  "Id" : "93",
+  "odp1" : "jasności i kontrastu kolorów."
+  "odp2" : "przezroczystości obiektu graficznego.",
+  "odp3" : "zaznaczonego fragmentu obiektu graficznego.",
+  "odp4" : "podstawowych parametrów obiektu graficznego.",
+  "pytanie" : "Kanał alfa służy do zdefiniowania"
+  "roz" : "przezroczystości obiektu graficznego."
+}, {
+  "Id" : "94",
+  "odp1" : "jakość cyfrowego dźwięku."
+  "odp2" : "jakość analogowego dźwięku.",
+  "odp3" : "amplitudę fali dźwiękowej utworu.",
+  "odp4" : "skalę głośności zapisywanego utworu.",
+  "pytanie" : "Częstotliwość próbkowania ma wpływ na"
+  "roz" : "jakość cyfrowego dźwięku."
+}, {
+  "Id" : "95",
+  "odp1" : "siły wzbudzenia drgania."
+  "odp2" : "sposobu pobudzenia drgania.",
+  "odp3" : "czasu drgania źródła dźwięku.",
+  "odp4" : "częstotliwości drgania fali akustycznej.",
+  "pytanie" : "Częstotliwość próbkowania ma wpływ na"
+  "roz" : "częstotliwości drgania fali akustycznej."
+}, {
+  "Id" : "96",
+  "odp1" : "char"
+  "odp2" : "text",
+  "odp3" : "time",
+  "odp4" : "bool",
+  "pytanie" : "Typ stało-znakowy w języku SQL to"
+  "roz" : "char"
+}, {
+  "Id" : "97",
+  "odp1" : "/"
+  "odp2" : "||",
+  "odp3" : "&",
+  "odp4" : "%",
+  "pytanie" : "Operator arytmetyczny modulo w języku SQL to"
+  "roz" : "%"
+}, {
+  "Id" : "98",
+  "odp1" : "usunięcie tabeli USA"
+  "odp2" : "modyfikację tabeli USA",
+  "odp3" : "nadpisanie starej tabeli USA.",
+  "odp4" : "utworzenie nowej tabeli USA.",
+  "pytanie" : "Polecenie w języku SQL ALTER TABLE USA ... ma za zadanie"
+  "roz" : "modyfikację tabeli USA"
+}, {
+  "Id" : "99",
+  "odp1" : "imion, nazwisk i numerów PESEL osób w wieku poniżej 18 lat"
+  "odp2" : "imion,  numerów PESEL i wieku osób z przedziału od 18 do 30 lat.",
+  "odp3" : "imion, numerów PESEL i wieku osób posiadających powyżej 30 lat.",
+  "odp4" : "imion, numerów PESEL i wieku osób w wieku  równym 18 lub 30 lat.",
+  "pytanie" : "Kod
+  SELECT imie, pesel, wiek FROM dane WHERE wiek IN (18,30)
+spowoduje wybranie"
+  "roz" : "imion, numerów PESEL i wieku osób w wieku  równym 18 lub 30 lat."
+}, {
+  "Id" : "100",
+  "odp1" : "SELECT COUNT(*) FROM Koty"
+  "odp2" : "SELECT ROWNUM() FROM Koty",
+  "odp3" : "SELECT COUNT(Koty) AS ROWNUM",
+  "odp4" : "SELECT COUNT(ROWNUM) FROM Koty",
+  "pytanie" : "Aby policzyć wszystkie wiersze tabeli Koty należy użyć polecenia"
+  "roz" : "SELECT COUNT(*) FROM Kotyy"
