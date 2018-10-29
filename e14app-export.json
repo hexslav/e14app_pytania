@@ -483,7 +483,7 @@
   "roz" : "Wiele do wielu"
 }, {
   "Id" : "55",
-  "odp1" : "Textarea, Option, Input(Checkbox), Input(Checkbox), Input(Submit), Input(Reset)"
+  "odp1" : "Textarea, Option, Input(Checkbox), Input(Checkbox), Input(Submit), Input(Reset)",
   "odp2" : "Input(Text), Select, Input(Radio), Input(Radio), Input(Submit), Input(Reset)",
   "odp3" : "Textarea, Select, Input(Radio), Input(Radio), Input(Reset), Input(Submit)",
   "odp4" : "Input(Text), Input(Checkbox), Select, Select, Input(Submit), Input(Reset)",
@@ -491,7 +491,7 @@
   "roz" : "Input(Text), Select, Input(Radio), Input(Radio), Input(Submit), Input(Reset)"
 }, {
   "Id" : "57",
-  "odp1" : "LIKE"
+  "odp1" : "LIKE",
   "odp2" : "DISTINCT",
   "odp3" : "ORDER BY",
   "odp4" : "GROUP BY",
@@ -499,7 +499,7 @@
   "roz" : "DISTINCT"
 }, {
   "Id" : "57",
-  "odp1" : "LIKE"
+  "odp1" : "LIKE",
   "odp2" : "DISTINCT",
   "odp3" : "ORDER BY",
   "odp4" : "GROUP BY",
@@ -507,7 +507,7 @@
   "roz" : "DISTINCT"
 }, {
   "Id" : "58",
-  "odp1" : "Tabela o nazwie dane posiada trzy kolumny liczb całkowitych."
+  "odp1" : "Tabela o nazwie dane posiada trzy kolumny liczb całkowitych.",
   "odp2" : "Tabela o nazwie dane posiada jedną kolumnę liczb całkowitych.",
   "odp3" : "Tabela posiada jedną kolumnę zawierającą trzyelementowe tablice.",
   "odp4" : "Kolumny tabeli dane nazywają się: kolumna1, kolumna2, kolumna3.",
@@ -516,7 +516,7 @@
   "roz" : "Tabela o nazwie dane posiada jedną kolumnę liczb całkowitych."
 }, {
   "Id" : "59",
-  "odp1" : "nadawanie uprawnień z użyciem zdefiniowanego schematu."
+  "odp1" : "nadawanie uprawnień z użyciem zdefiniowanego schematu.",
   "odp2" : "odbieranie uprawnień użytkownikowi.",
   "odp3" : "usuwanie użytkownika z bazy",
   "odp4" : "nadawanie praw do tabeli.",
@@ -524,7 +524,7 @@
   "roz" : "odbieranie uprawnień użytkownikowi."
 }, {
   "Id" : "60",
-  "odp1" : "mysqlcheck"
+  "odp1" : "mysqlcheck",
   "odp2" : "mysqldump",
   "odp3" : "truncate",
   "odp4" : "create",
@@ -532,7 +532,7 @@
   "roz" : "mysqlcheck"
 }, {
   "Id" : "61",
-  "odp1" : "mysqldump -u root -p  baza > kopia.sql"
+  "odp1" : "mysqldump -u root -p  baza > kopia.sql",
   "odp2" : "mysqldump -u root -p baza < kopia.sql",
   "odp3" : "mysql -u root -p baza < kopia.sql",
   "odp4" : "mysql -u root -p baza > kopia.sql",
@@ -540,7 +540,7 @@
   "roz" : "mysql -u root -p baza < kopia.sql"
 }, {
   "Id" : "62",
-  "odp1" : "nadaje uprawnienie grupie klienci do tabeli pracownik."
+  "odp1" : "nadaje uprawnienie grupie klienci do tabeli pracownik.",
   "odp2" : "odbiera wszystkie uprawnienia pracownikowi do tabeli klienci.",
   "odp3" : "skopiuje uprawnienia z grupy klienci na użytkownika pracownik.",
   "odp4" : "nadaje wszystkie uprawnienia do tabeli klienci użytkownikowi pracownik.",
@@ -548,7 +548,7 @@
   "roz" : "nadaje wszystkie uprawnienia do tabeli klienci użytkownikowi pracownik."
 }, {
   "Id" : "63",
-  "odp1" : "sort()"
+  "odp1" : "sort()",
   "odp2" : "rsort()",
   "odp3" : "asort()",
   "odp4" : "ksort()",
@@ -556,7 +556,7 @@
   "roz" : "ksort()"
 }, {
   "Id" : "64",
-  "odp1" : "cookie("owoce", "jabłko", 3600);"
+  "odp1" : "cookie("owoce", "jabłko", 3600);",
   "odp2" : "cookie("jabłko", "owoce", 3600);",
   "odp3" : "setcookie("owoce", "jabłko", time()+3600);",
   "odp4" : "setcookie("jabłko", "owoce", time()+3600);",
@@ -564,7 +564,7 @@
   "roz" : "setcookie("owoce", "jabłko", time()+3600);"}, {
 }, {
   "Id" : "65",
-  "odp1" : "long"
+  "odp1" : "long",
   "odp2" : "const",
   "odp3" : "short",
   "odp4" : "unsigned",
@@ -572,7 +572,7 @@
   "roz" : "unsigned"
 }, {
   "Id" : "66",
-  "odp1" : "logiczny."
+  "odp1" : "logiczny.",
   "odp2" : "znakowy.",
   "odp3" : "tablicowy.",
   "odp4" : "łańcuchowy.",
@@ -580,7 +580,7 @@
   "roz" : "logiczny."
 }, {
   "Id" : "67",
-  "odp1" : "pkt Punkt;"
+  "odp1" : "pkt Punkt;",
   "odp2" : "pkt= new Punkt();",
   "odp3" : "pkt Punkt();",
   "odp4" : "Punkt() pkt;",
@@ -588,7 +588,7 @@
   "roz" : "pkt= new Punkt();"
 }, {
   "Id" : "68",
-  "odp1" : "rys. A"
+  "odp1" : "rys. A",
   "odp2" : "rys B",
   "odp3" : "rys. C",
   "odp4" : "rys. D",
@@ -603,7 +603,7 @@
   "roz" : "rys. A"
 }, {
   "Id" : "69",
-  "odp1" : "C++ jest językiem obiektowym."
+  "odp1" : "C++ jest językiem obiektowym.",
   "odp2" : "JavaScript jest językiem skryptowym.",
   "odp3" : "SQL jest językiem programowania strukturalnego.",
   "odp4" : "PHP jest językiem do tworzenia stron w czasie rzeczywistym.",
@@ -611,7 +611,7 @@
   "roz" : "SQL jest językiem programowania strukturalnego."
 }, {
   "Id" : "70",
-  "odp1" : "0"
+  "odp1" : "0",
   "odp2" : "2",
   "odp3" : "3",
   "odp4" : "32",
@@ -619,7 +619,7 @@
   "roz" : "3"
 }, {
   "Id" : "71",
-  "odp1" : "Funkcja zwraca wartość."
+  "odp1" : "Funkcja zwraca wartość.",
   "odp2" : "Funkcja nie zwraca wartości.",
   "odp3" : "Funkcja posiada dwa parametry.",
   "odp4" : "Funkcja odwołuje się do parametrów przez referencję.",
@@ -632,7 +632,7 @@
   "roz" : "Funkcja zwraca wartość."
 }, {
   "Id" : "72",
-  "odp1" : "parametr formalny typu rzeczywistego."
+  "odp1" : "parametr formalny typu rzeczywistego.",
   "odp2" : "zmienna rzeczywista.",
   "odp3" : "zmienna całkowita.",
   "odp4" : "wskaźnik.",
@@ -640,7 +640,7 @@
   "roz" : "wskaźnik."
 }, {
   "Id" : "73",
-  "odp1" : "Specyfikacja wymagań, analiz wymagań klienta, tworzenie, wdrażanie, testy."
+  "odp1" : "Specyfikacja wymagań, analiz wymagań klienta, tworzenie, wdrażanie, testy.",
   "odp2" : "Analiza wymagań klienta, specyfikacja wymagań, tworzenie, testy, wdrażanie.",
   "odp3" : "Tworzenie, analiza wymagań klienta, specyfikacja wymagań, wdrażanie, testy",
   "odp4" : "Analiza wymagań klienta, specyfikacja wymagań, tworzenie, wdrażanie, testy.",
@@ -648,7 +648,7 @@
   "roz" : "Analiza wymagań klienta, specyfikacja wymagań, tworzenie, testy, wdrażanie."
 }, {
   "Id" : "74",
-  "odp1" : "3"
+  "odp1" : "3",
   "odp2" : "4",
   "odp3" : "3.5",
   "odp4" : "4.05",
@@ -658,7 +658,7 @@
   "roz" : "4"
 }, {
   "Id" : "75",
-  "odp1" : "debugowanie."
+  "odp1" : "debugowanie.",
   "odp2" : "uruchamianie",
   "odp3" : "kompilowanie.",
   "odp4" : "implementowanie.",
@@ -666,7 +666,7 @@
   "roz" : "kompilowanie."
 }, {
   "Id" : "76",
-  "odp1" : "Pętla wykona się tylko raz."
+  "odp1" : "Pętla wykona się tylko raz.",
   "odp2" : "Funkcja posiada pętlę powtarzającą się 3 razy.",
   "odp3" : "Tekst będzie wczytywany do momentu podania liczby większej niż 3.",
   "odp4" : "Wczytywanie tekstu zakończy się, gdy tekst będzie się składał przynajmniej z 3 znaków.",
@@ -674,7 +674,7 @@
   "roz" : "Wczytywanie tekstu zakończy się, gdy tekst będzie się składał przynajmniej z 3 znaków."
 }, {
   "Id" : "77",
-  "odp1" : "12,4"
+  "odp1" : "12,4",
   "odp2" : "12,5",
   "odp3" : "15,4",
   "odp4" : "15,5",
@@ -682,7 +682,7 @@
   "roz" : "12,5"
 }, {
   "Id" : "78",
-  "odp1" : "logicznego."
+  "odp1" : "logicznego.",
   "odp2" : "liczbowego.",
   "odp3" : "string (ciąg znaków).",
   "odp4" : "nieokreślonego (undefined).",
@@ -690,7 +690,7 @@
   "roz" : "string (ciąg znaków)."
 }, {
   "Id" : "79",
-  "odp1" : "db2"
+  "odp1" : "db2",
   "odp2" : "eclipse",
   "odp3" : "framework",
   "odp4" : "middleware",
@@ -698,7 +698,7 @@
   "roz" : "framework"
 }, {
   "Id" : "80",
-  "odp1" : "kompilowanie"
+  "odp1" : "kompilowanie",
   "odp2" : "debugowanie.",
   "odp3" : "standaryzacja.",
   "odp4" : "normalizacja.",
@@ -706,7 +706,7 @@
   "roz" : "debugowanie."
 }, {
   "Id" : "81",
-  "odp1" : "<background=""></background>"
+  "odp1" : "<background=""></background>",
   "odp2" : "<body bgcolor=""></body>",
   "odp3" : "<bgcolor=""></bgcolor>",
   "odp4" : "<body background=""></body>",
@@ -714,7 +714,7 @@
   "roz" : "<body bgcolor=""></body>"
 }, {
   "Id" : "82",
-  "odp1" : "barwy czcionki."
+  "odp1" : "barwy czcionki.",
   "odp2" : "nazwy czcionki.",
   "odp3" : "efektów czcionki",
   "odp4" : "wielkości czcionki",
@@ -722,7 +722,7 @@
   "roz" : "nazwy czcionki."
 }, {
   "Id" : "83",
-  "odp1" : "symboli matematycznych"
+  "odp1" : "symboli matematycznych",
   "odp2" : "polskich liter, takich jak: ś, ć, ń, ó, ą.",
   "odp3" : "znaków specjalnych dla języka kodów strony.",
   "odp4" : "znaków zarezerwowanych dla języka opisu strony.",
@@ -730,7 +730,7 @@
   "roz" : "polskich liter, takich jak: ś, ć, ń, ó, ą."
 }, {
   "Id" : "84",
-  "odp1" : "dwóch wierszy i dwóch kolumn."
+  "odp1" : "dwóch wierszy i dwóch kolumn.",
   "odp2" : "dwóch wierszy i jednej kolumny.",
   "odp3" : "jednego wiersza i dwóch kolumn.",
   "odp4" : "jednego wiersza i jednej kolumny.",
@@ -738,7 +738,7 @@
   "roz" : "jednego wiersza i dwóch kolumn."
 }, {
   "Id" : "85",
-  "odp1" : "ułatwienia użytkownikowi nawigacji."
+  "odp1" : "ułatwienia użytkownikowi nawigacji.",
   "odp2" : "uzupełnienia strony internetowej o treści tekstowe.",
   "odp3" : "przyśpieszenia wyświetlania grafiki na stronie internetowej.",
   "odp4" : "definiowania sposobu formatowania elementów strony internetowej.",
@@ -746,7 +746,7 @@
   "roz" : "definiowania sposobu formatowania elementów strony internetowej."
 }, {
   "Id" : "86",
-  "odp1" : "open."
+  "odp1" : "open.",
   "odp2" : "import.",
   "odp3" : "require.",
   "odp4" : "include.",
@@ -754,7 +754,7 @@
   "roz" : "import."
 }, {
   "Id" : "87",
-  "odp1" : "klasę"
+  "odp1" : "klasę",
   "odp2" : "pseudoklasę.",
   "odp3" : "identyfikator",
   "odp4" : "pseudoelement.",
@@ -762,7 +762,7 @@
   "roz" : "pseudoklasę."
 }, {
   "Id" : "88",
-  "odp1" : "IDE"
+  "odp1" : "IDE",
   "odp2" : "WYSIWYG",
   "odp3" : "WEB STUDIO",
   "odp4" : "VISUAL EDITOR",
@@ -770,99 +770,99 @@
   "roz" : "WYSIWYG"
 }, {
   "Id" : "89",
-  "odp1" : "#2551212"
+  "odp1" : "#2551212",
   "odp2" : "#EE0C0C",
   "odp3" : "#AB1A1D",
   "odp4" : "#FF0C0C",
-  "pytanie" : "Kolor 255 12 12 w modelu RGB na stronie www powinien być zapisany w postaci"
+  "pytanie" : "Kolor 255 12 12 w modelu RGB na stronie www powinien być zapisany w postaci",
   "roz" : "#FF0C0C"
 }, {
   "Id" : "90",
-  "odp1" : "turkusowego, błękitnego, białego, różowego"
+  "odp1" : "turkusowego, błękitnego, białego, różowego",
   "odp2" : "turkusowego, purpurowego, białego, czarnego",
   "odp3" : "czerwonego, purpurowego, żółtego, szarego",
   "odp4" : "turkusowego, purpurowego, żółtego, czarnego",
-  "pytanie" : "CMYK to zestaw czterech podstawowych kolorów farb drukarskich:"
+  "pytanie" : "CMYK to zestaw czterech podstawowych kolorów farb drukarskich:",
   "roz" : "turkusowego, purpurowego, żółtego, czarnego"
 }, {
   "Id" : "91",
-  "odp1" : "obsługa animacji."
+  "odp1" : "obsługa animacji.",
   "odp2" : "bezstratna kompresja.",
   "odp3" : "brak obsługi kanału alfa.",
   "odp4" : "reprezentacja grafiki wektorowej.",
-  "pytanie" : "Cechą formatu PNG jest"
+  "pytanie" : "Cechą formatu PNG jest",
   "roz" : "bezstratna kompresja."
 }, {
   "Id" : "92",
-  "odp1" : "jasnością koloru"
+  "odp1" : "jasnością koloru",
   "odp2" : "nasyceniem koloru.",
   "odp3" : "dopełnieniem koloru.",
   "odp4" : "przeźroczystością koloru.",
-  "pytanie" : "Saturacja koloru nazywana jest inaczej"
+  "pytanie" : "Saturacja koloru nazywana jest inaczej",
   "roz" : "nasyceniem koloru."
 }, {
   "Id" : "93",
-  "odp1" : "jasności i kontrastu kolorów."
+  "odp1" : "jasności i kontrastu kolorów.",
   "odp2" : "przezroczystości obiektu graficznego.",
   "odp3" : "zaznaczonego fragmentu obiektu graficznego.",
   "odp4" : "podstawowych parametrów obiektu graficznego.",
-  "pytanie" : "Kanał alfa służy do zdefiniowania"
+  "pytanie" : "Kanał alfa służy do zdefiniowania",
   "roz" : "przezroczystości obiektu graficznego."
 }, {
   "Id" : "94",
-  "odp1" : "jakość cyfrowego dźwięku."
+  "odp1" : "jakość cyfrowego dźwięku.",
   "odp2" : "jakość analogowego dźwięku.",
   "odp3" : "amplitudę fali dźwiękowej utworu.",
   "odp4" : "skalę głośności zapisywanego utworu.",
-  "pytanie" : "Częstotliwość próbkowania ma wpływ na"
+  "pytanie" : "Częstotliwość próbkowania ma wpływ na",
   "roz" : "jakość cyfrowego dźwięku."
 }, {
   "Id" : "95",
-  "odp1" : "siły wzbudzenia drgania."
+  "odp1" : "siły wzbudzenia drgania.",
   "odp2" : "sposobu pobudzenia drgania.",
   "odp3" : "czasu drgania źródła dźwięku.",
   "odp4" : "częstotliwości drgania fali akustycznej.",
-  "pytanie" : "Częstotliwość próbkowania ma wpływ na"
+  "pytanie" : "Częstotliwość próbkowania ma wpływ na",
   "roz" : "częstotliwości drgania fali akustycznej."
 }, {
   "Id" : "96",
-  "odp1" : "char"
+  "odp1" : "char",
   "odp2" : "text",
   "odp3" : "time",
   "odp4" : "bool",
-  "pytanie" : "Typ stało-znakowy w języku SQL to"
+  "pytanie" : "Typ stało-znakowy w języku SQL to",
   "roz" : "char"
 }, {
   "Id" : "97",
-  "odp1" : "/"
+  "odp1" : "/",
   "odp2" : "||",
   "odp3" : "&",
   "odp4" : "%",
-  "pytanie" : "Operator arytmetyczny modulo w języku SQL to"
+  "pytanie" : "Operator arytmetyczny modulo w języku SQL to",
   "roz" : "%"
 }, {
   "Id" : "98",
-  "odp1" : "usunięcie tabeli USA"
+  "odp1" : "usunięcie tabeli USA",
   "odp2" : "modyfikację tabeli USA",
   "odp3" : "nadpisanie starej tabeli USA.",
   "odp4" : "utworzenie nowej tabeli USA.",
-  "pytanie" : "Polecenie w języku SQL ALTER TABLE USA ... ma za zadanie"
+  "pytanie" : "Polecenie w języku SQL ALTER TABLE USA ... ma za zadanie",
   "roz" : "modyfikację tabeli USA"
 }, {
   "Id" : "99",
-  "odp1" : "imion, nazwisk i numerów PESEL osób w wieku poniżej 18 lat"
+  "odp1" : "imion, nazwisk i numerów PESEL osób w wieku poniżej 18 lat",
   "odp2" : "imion,  numerów PESEL i wieku osób z przedziału od 18 do 30 lat.",
   "odp3" : "imion, numerów PESEL i wieku osób posiadających powyżej 30 lat.",
   "odp4" : "imion, numerów PESEL i wieku osób w wieku  równym 18 lub 30 lat.",
   "pytanie" : "Kod
   SELECT imie, pesel, wiek FROM dane WHERE wiek IN (18,30)
-spowoduje wybranie"
+spowoduje wybranie",
   "roz" : "imion, numerów PESEL i wieku osób w wieku  równym 18 lub 30 lat."
 }, {
   "Id" : "100",
-  "odp1" : "SELECT COUNT(*) FROM Koty"
+  "odp1" : "SELECT COUNT(*) FROM Koty",
   "odp2" : "SELECT ROWNUM() FROM Koty",
   "odp3" : "SELECT COUNT(Koty) AS ROWNUM",
   "odp4" : "SELECT COUNT(ROWNUM) FROM Koty",
-  "pytanie" : "Aby policzyć wszystkie wiersze tabeli Koty należy użyć polecenia"
+  "pytanie" : "Aby policzyć wszystkie wiersze tabeli Koty należy użyć polecenia",
   "roz" : "SELECT COUNT(*) FROM Kotyy"
