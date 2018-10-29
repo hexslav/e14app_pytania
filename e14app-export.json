@@ -836,6 +836,5 @@
   "odp3" : "SELECT COUNT(Koty) AS ROWNUM",
   "odp4" : "SELECT COUNT(ROWNUM) FROM Koty",
   "pytanie" : "Aby policzyć wszystkie wiersze tabeli Koty należy użyć polecenia",
-  "roz" : "SELECT COUNT(*) FROM Koty"} 
-
-] 
+  "roz" : "SELECT COUNT(*) FROM Koty"
+} ] 
