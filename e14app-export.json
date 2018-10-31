@@ -351,6 +351,7 @@
   "roz" : "Wspólne środowisko uruchomieniowe (CLR)."
 }, {
   "Id" : "40",
+  "img_url" : "0",
   "odp1" : "Mechanizm wykonywania aplikacji dla bibliotek klas.",
   "odp2" : "Mechanizm wykonywania aplikacji realizowany przez frameworki aplikacji internetowych (ASP.NET).",
   "odp3" : "Mechanizm wykonywania aplikacji realizowany przez funkcję Windows API (Application Programming Interface).",
@@ -359,6 +360,7 @@
   "roz" : "Mechanizm wykonywania aplikacji oparty na uprawnieniach kodu (CAS - Code Access Security) i na rolach (RBS - Role-Based Security)."
 }, {
   "Id" : "41",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/42.jpg?alt=media&token=0ed60cb5-418d-4bd5-ab23-df0345dfe870",
   "odp1" : "<a href='mailto:adres'>tekst</a>",
   "odp2" : "<a href='http://:adres'>tekst</a>",
   "odp3" : "<a href=“http://adres“>tekst</a>",
@@ -367,6 +369,7 @@
   "roz" : "<a href=\"mailto:adres\">tekst</a>"
 }, {
   "Id" : "42",
+  "img_url" : "0",
   "odp1" : "wypunktowaną.",
   "odp2" : "numerowaną.",
   "odp3" : "<odnośników.",
@@ -375,14 +378,16 @@
   "roz" : "numerowaną."
 }, {
   "Id" : "43",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/43.jpg?alt=media&token=032163c0-30f2-400f-b656-59128e8f40b8",
   "odp1" : "rys. A",
   "odp2" : "rys. B",
   "odp3" : "rys. C",
   "odp4" : "rys. D",
-  "pytanie" : "Polecenie colspan służy do łączenia komórek tabeli w poziomie, natomiast rowspan w pionie. Którą z tabel wyświetli fragment kodu napisanego w języku HTML? <table border=\"1\" cellspaing=\"0\" cellpadding=\"10\"  <tr> <td rowspan=\"2\">&nbsp</td> <td>&nbsp</td> </tr> <tr> <td>&nbsp</td> </tr> </table>",
+  "pytanie" : "Polecenie colspan służy do łączenia komórek tabeli w poziomie, natomiast rowspan w pionie. Którą z tabel wyświetli fragment kodu napisanego w języku HTML? \n <table border=\"1\" cellspaing=\"0\" cellpadding=\"10\"> \n  <tr> \n <td rowspan=\"2\">&nbsp</td> \n <td>&nbsp</td> \n </tr> \n <tr> \n <td>&nbsp</td> \n </tr> \n </table>",
   "roz" : "rys. B"
 }, {
   "Id" : "44",
+  "img_url" : "0",
   "odp1" : "autora.",
   "odp2" : "kodowania.",
   "odp3" : "typu dokumentu.",
@@ -391,6 +396,7 @@
   "roz" : "typu dokumentu."
 }, {
   "Id" : "45",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/45.jpg?alt=media&token=ffbe7c33-4c75-42b5-973e-3568d536bd5b",
   "odp1" : "<link rel=\"stylesheet\" type=\"text/css\" href=\"./style/default.css\" />",
   "odp2" : "<link rel=\"stylesheet\" type=\"text/css\" href=\"c:/style/default.css\" />",
   "odp3" : "<link rel=\"stylesheet\" type=\"text/css\" href=\"...\\style\\default.css\" />",
@@ -399,6 +405,7 @@
   "roz" : "<link rel=\"stylesheet\" type=\"text/css\" href=\"./style/default.css\" />" 
 }, {
   "Id" : "46",
+  "img_url" : "0",
   "odp1" : "Jest to styl lokalny.",
   "odp2" : " Zdefiniowano dwie klasy.",
   "odp3" : "Akapit będzie transponowany na małe litery.",
@@ -407,6 +414,7 @@
   "roz" : " Zdefiniowano dwie klasy."
 }, {
   "Id" : "47",
+  "img_url" : "0",
   "odp1" : "#FF00FF",
   "odp2" : "#00FFFF",
   "odp3" : "#FFFF00",
@@ -415,6 +423,7 @@
   "roz" : "#FFFF00"
 }, {
   "Id" : "48",
+  "img_url" : "0",
   "odp1" : "GIF",
   "odp2" : "ACE",
   "odp3" : "SWF",
@@ -423,6 +432,7 @@
   "roz" : "ACE"
 }, {
   "Id" : "49",
+  "img_url" : "0",
   "odp1" : "GIF",
   "odp2" : "RAW",
   "odp3" : "BMP",
@@ -463,6 +473,7 @@
   "roz" : "Określenie celu, stworzenie tabel, utworzenie relacji, normalizacja."
 }, {
   "Id" : "54",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/54.jpg?alt=media&token=fb956110-d6f0-43a2-acd4-dcc0b0d13c3d",
   "odp1" : "Jeden do jednego.",
   "odp2" : "Wiele do jednego.",
   "odp3" : "Jeden do wielu",
@@ -471,6 +482,7 @@
   "roz" : "Wiele do wielu"
 }, {
   "Id" : "55",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/55.jpg?alt=media&token=5a97ad76-2b4d-4896-bdc7-18d70e400cb2",
   "odp1" : "Textarea, Option, Input(Checkbox), Input(Checkbox), Input(Submit), Input(Reset)",
   "odp2" : "Input(Text), Select, Input(Radio), Input(Radio), Input(Submit), Input(Reset)",
   "odp3" : "Textarea, Select, Input(Radio), Input(Radio), Input(Reset), Input(Submit)",
@@ -478,13 +490,14 @@
   "pytanie" : "Wskaż typ relacji pomiędzy tabelami: Tabela1 i Tabela3",
   "roz" : "Input(Text), Select, Input(Radio), Input(Radio), Input(Submit), Input(Reset)"
 }, {
-  "Id" : "57",
-  "odp1" : "LIKE",
-  "odp2" : "DISTINCT",
-  "odp3" : "ORDER BY",
-  "odp4" : "GROUP BY",
-  "pytanie" : "Które ze słów kluczowych języka SQL należy użyć, aby wyeliminować duplikaty?",
-  "roz" : "DISTINCT"
+  "Id" : "56",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/56.jpg?alt=media&token=fc2429bc-af6b-450e-976b-5ed908d337db",
+  "odp1" : "Tagi inteligentne.",
+  "odp2" : "Wartość domyślną.",
+  "odp3" : "Maskę wprowadzania.",
+  "odp4" : "Regułę sprawdzania poprawności.",
+  "pytanie" : "Którą z właściwości pola tabeli należy zdefiniować, aby pole przyjmowało dane składające się wyłącznie z cyfr?",
+  "roz" : "Maskę wprowadzania."
 }, {
   "Id" : "57",
   "odp1" : "LIKE",
@@ -567,6 +580,7 @@
   "roz" : "logiczny."
 }, {
   "Id" : "67",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/67.jpg?alt=media&token=3bc278fe-dc07-4c3f-8c64-64fb23bc3157",
   "odp1" : "pkt Punkt;",
   "odp2" : "pkt= new Punkt();",
   "odp3" : "pkt Punkt();",
@@ -575,6 +589,7 @@
   "roz" : "pkt= new Punkt();"
 }, {
   "Id" : "68",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/68.jpg?alt=media&token=f54c9b29-1aad-4bc1-88a7-b6992911abdf",
   "odp1" : "rys. A",
   "odp2" : "rys B",
   "odp3" : "rys. C",
@@ -591,6 +606,7 @@
   "roz" : "SQL jest językiem programowania strukturalnego."
 }, {
   "Id" : "70",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/70.jpg?alt=media&token=279f2c2b-4510-472b-9841-98700028dbb0",
   "odp1" : "0",
   "odp2" : "2",
   "odp3" : "3",
@@ -639,6 +655,7 @@
   "roz" : "kompilowanie."
 }, {
   "Id" : "76",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/76.jpg?alt=media&token=ee76a625-e362-4436-9878-21a9fc65c8de",
   "odp1" : "Pętla wykona się tylko raz.",
   "odp2" : "Funkcja posiada pętlę powtarzającą się 3 razy.",
   "odp3" : "Tekst będzie wczytywany do momentu podania liczby większej niż 3.",
@@ -647,6 +664,7 @@
   "roz" : "Wczytywanie tekstu zakończy się, gdy tekst będzie się składał przynajmniej z 3 znaków."
 }, {
   "Id" : "77",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/77.jpg?alt=media&token=75ced92a-4e28-4569-b4d2-8a75896795a2",
   "odp1" : "12,4",
   "odp2" : "12,5",
   "odp3" : "15,4",
@@ -703,6 +721,7 @@
   "roz" : "polskich liter, takich jak: ś, ć, ń, ó, ą."
 }, {
   "Id" : "84",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/84.jpg?alt=media&token=8cb2edfa-6d78-4724-9f4e-757ebcf32e3c",
   "odp1" : "dwóch wierszy i dwóch kolumn.",
   "odp2" : "dwóch wierszy i jednej kolumny.",
   "odp3" : "jednego wiersza i dwóch kolumn.",
@@ -739,7 +758,7 @@
   "odp2" : "WYSIWYG",
   "odp3" : "WEB STUDIO",
   "odp4" : "VISUAL EDITOR",
-  "pytanie" : "Jak nazywa się edytor wspomagający tworzenie stron internetowych, którego sposób działania można w polskim tłumaczeniu określić jako "otrzymujesz to, co widzisz"?",
+  "pytanie" : "Jak nazywa się edytor wspomagający tworzenie stron internetowych, którego sposób działania można w polskim tłumaczeniu określić jako \"otrzymujesz to, co widzisz\"?",
   "roz" : "WYSIWYG"
 }, {
   "Id" : "89",
@@ -799,6 +818,7 @@
   "roz" : "częstotliwości drgania fali akustycznej."
 }, {
   "Id" : "96",
+  "img_url" : "0",
   "odp1" : "char",
   "odp2" : "text",
   "odp3" : "time",
@@ -807,6 +827,7 @@
   "roz" : "char"
 }, {
   "Id" : "97",
+  "img_url" : "0",
   "odp1" : "/",
   "odp2" : "||",
   "odp3" : "&",
@@ -815,6 +836,7 @@
   "roz" : "%"
 }, {
   "Id" : "98",
+  "img_url" : "0",
   "odp1" : "usunięcie tabeli USA",
   "odp2" : "modyfikację tabeli USA",
   "odp3" : "nadpisanie starej tabeli USA.",
@@ -823,6 +845,7 @@
   "roz" : "modyfikację tabeli USA"
 }, {
   "Id" : "99",
+  "img_url" : "0",
   "odp1" : "imion, nazwisk i numerów PESEL osób w wieku poniżej 18 lat",
   "odp2" : "imion,  numerów PESEL i wieku osób z przedziału od 18 do 30 lat.",
   "odp3" : "imion, numerów PESEL i wieku osób posiadających powyżej 30 lat.",
@@ -831,6 +854,7 @@
   "roz" : "imion, numerów PESEL i wieku osób w wieku  równym 18 lub 30 lat."
 }, {
   "Id" : "100",
+  "img_url" : "0",
   "odp1" : "SELECT COUNT(*) FROM Koty",
   "odp2" : "SELECT ROWNUM() FROM Koty",
   "odp3" : "SELECT COUNT(Koty) AS ROWNUM",
