@@ -108,7 +108,7 @@
   "roz" : "JPEG"
 }, {
   "Id" : "13",
-  "img_url" : "0",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/13.jpg?alt=media&token=a861c8cc-3ae7-4bb1-9710-845ddf2edde5",
   "odp1" : "animowaniu obiektu.",
   "odp2" : " zmianie warstwy obiektu.",
   "odp3" : "narysowaniu docelowego obiektu.",
@@ -153,7 +153,7 @@
   "roz" : "DELETE, INSERT, UPDATE"
 }, {
   "Id" : "18",
-  "img_url" : "0",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/18.jpg?alt=media&token=dab5bb3f-ff64-4a22-903d-c5d005c80e0b",
   "odp1" : "Rosnąco według parametru klasa.",
   "odp2" : "Malejąco według parametru klasa.",
   "odp3" : "Rosnąco według parametru srednia.",
@@ -162,7 +162,7 @@
   "roz" : "Malejąco według parametru klasa."
 }, {
   "Id" : "19",
-  "img_url" : "0",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/19.jpg?alt=media&token=c00c42ce-43da-4398-84ae-96b4c289d60a",
   "odp1" : "Według parametru wyrob_id wyłącznie dla trzech tabel.",
   "odp2" : "Według parametru wyrob_id dla wszystkich tabel.",
   "odp3" : "Według parametru nr_id wyłącznie dla trzech tabel.",
@@ -270,7 +270,7 @@
   "roz" : "całkowitych."
 }, {
   "Id" : "31",
-  "img_url" : "0",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/31.jpg?alt=media&token=b1729add-8442-4540-8e19-32d9fc026a5d",
   "odp1" : "Hierarchię zmiennych.",
   "odp2" : "Trzy zmienne niepowiązane ze sobą.",
   "odp3" : "Typ strukturalny składający się z trzech pól.",
@@ -288,7 +288,7 @@
   "roz" : "imperatywnego."
 }, {
   "Id" : "33",
-  "img_url" : "0",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/33.jpg?alt=media&token=bba7a065-6810-4fd8-aa65-4fdc6b96f2a3",
   "odp1" : "2 2 1",
   "odp2" : "2 1 1",
   "odp3" : "1 2 1",
@@ -297,7 +297,7 @@
   "roz" : "2 2 1"
 }, {
   "Id" : "34",
-  "img_url" : "0",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/34.jpg?alt=media&token=f835cd37-3b15-46aa-95f8-c33d43c8c022",
   "odp1" : "C",
   "odp2" : "C#",
   "odp3" : "PHP",
@@ -342,7 +342,7 @@
   "roz" : "AJAX"
 }, {
   "Id" : "39",
-  "img_url" : "0",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/39.jpg?alt=media&token=e464e75a-d214-415d-96b5-66ee2793a824",
   "odp1" : "Infrastruktura językowa (CLI).",
   "odp2" : "Biblioteka klas bazowych (BCL).",
   "odp3" : "Wspólne środowisko programistyczne (CLP).",
