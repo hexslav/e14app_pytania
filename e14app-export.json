@@ -360,7 +360,7 @@
   "roz" : "Mechanizm wykonywania aplikacji oparty na uprawnieniach kodu (CAS - Code Access Security) i na rolach (RBS - Role-Based Security)."
 }, {
   "Id" : "41",
-  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/42.jpg?alt=media&token=0ed60cb5-418d-4bd5-ab23-df0345dfe870",
+  "img_url" : "0",
   "odp1" : "<a href='mailto:adres'>tekst</a>",
   "odp2" : "<a href='http://:adres'>tekst</a>",
   "odp3" : "<a href=“http://adres“>tekst</a>",
@@ -369,7 +369,7 @@
   "roz" : "<a href=\"mailto:adres\">tekst</a>"
 }, {
   "Id" : "42",
-  "img_url" : "0",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/42.jpg?alt=media&token=0ed60cb5-418d-4bd5-ab23-df0345dfe870",
   "odp1" : "wypunktowaną.",
   "odp2" : "numerowaną.",
   "odp3" : "<odnośników.",
