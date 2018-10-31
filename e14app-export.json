@@ -561,7 +561,7 @@
   "odp3" : "setcookie(\"owoce\", \"jabłko\", time()+3600);",
   "odp4" : "setcookie(\"jabłko\", \"owoce\", time()+3600);",
   "pytanie" : "W skrypcie PHP należy utworzyć cookie o nazwie \"owoce\", które przyjmie wartość \"jabłko\". Cookie ma być dostępne przez jedną godzinę od jego utworzenia. W tym celu należy w skrypcie PHP użyć funkcji:",
-  "roz" : "setcookie(\"owoce\", \"jabłko\", time()+3600);"}, {
+  "roz" : "setcookie(\"owoce\", \"jabłko\", time()+3600);"
 }, {
   "Id" : "65",
   "odp1" : "long",
