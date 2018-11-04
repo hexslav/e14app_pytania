@@ -865,4 +865,336 @@ spowoduje wybranie",
   "odp3" : "SELECT COUNT(Koty) AS ROWNUM",
   "odp4" : "SELECT COUNT(ROWNUM) FROM Koty",
   "pytanie" : "Aby policzyć wszystkie wiersze tabeli Koty należy użyć polecenia",
-  "roz" : "SELECT COUNT(*) FROM Kotyy"
+  "roz" : "SELECT COUNT(*) FROM Koty"
+}, {
+  "Id" : "101",
+  "odp1" : "CONSTRAINT (nazwisko, imie) FOREIGN KEY REFERENCES osoby (nazwisko, imie)",
+  "odp2" : "CONSTRAINT ELEC(nazwisko, imie) FOREIGN REFERENCES KEY osoby (nazwisko, imie)",
+  "odp3" : "CONSTRAINT fk_osoba_uczen FOREIGN KEY(nazwisko, imie) REFERENCES osoby (nazwisko, imie)",
+  "odp4" : "SELECT COUNT(ROWNUM) FROM Koty",
+  "pytanie" : "by podczas tworzenia tabeli utworzyć klucz obcy na wielu kolumnach, należy użyć polecenia",
+  "roz" : "CONSTRAINT fk_osoba_uczen FOREIGN KEY ON(nazwisko, imie) REFERENCES osoby (nazwisko, imie)"
+}, {
+  "Id" : "102",
+  "odp1" : "wyeliminowaniu pustych wierszy.",
+  "odp2" : "wybraniu krotek spełniających określone warunki.",
+  "odp3" : "wybraniu krotek niezawierających wartości NULL.",
+  "odp4" : "wyeliminowaniu krotek z powtarzającymi się polami.",
+  "pytanie" : "W algebrze relacji operacja selekcji polega na",
+  "roz" : "wybraniu krotek spełniających określone warunki."
+}, {
+  "Id" : "103",
+  "odp1" : "logicznym połączeniem tabel.",
+  "odp2" : "kluczem głównym w relacji tabel.",
+  "odp3" : "algebraicznym połączeniem tabel.",
+  "odp4" : "połączeniem dwóch pól jednej tabeli.",
+  "pytanie" : "Relacja w bazach danych jest",
+  "roz" : "logicznym połączeniem tabel."
+}, {
+  "Id" : "104",
+  "odp1" : "Selekcja, Określenie relacji, Określenie kluczy podstawowych tabel, Określenie zbioru danych.",
+  "odp2" : "Określenie relacji, Określenie kluczy podstawowych, Selekcja, Określenie zbioru danych.",
+  "odp3" : "Określenie kluczy podstawowych tabel, Określenie zbioru danych, Selekcja, Określenie relacji.",
+  "odp4" : "Określenie zbioru danych, Selekcja, Określenie kluczy podstawowych tabel, Określenie relacji.",
+  "pytanie" : "Wskaż poprawną kolejność etapów projektowania relacyjnej bazy danych.",
+  "roz" : "Określenie zbioru danych, Selekcja, Określenie kluczy podstawowych tabel, Określenie relacji."
+}, {
+  "Id" : "105",
+  "odp1" : "raportowania danych.",
+  "odp2" : "wyszukiwania wierszy spełniających dane kryteria.",
+  "odp3" : "wprowadzania powiązań w relacyjnych bazach danych.",
+  "odp4" : "wygodniejszego wprowadzania, edytowania i usuwania danych.",
+  "pytanie" : "Formularze do obsługi baz danych tworzy się w celu",
+  "roz" : "wygodniejszego wprowadzania, edytowania i usuwania danych."
+}, {
+  "Id" : "106",
+  "odp1" : "wartość klucza głównego oraz klucza obcego nie jest pusta.",
+  "odp2" : "klucz główny lub klucz obcy nie zawierają wartości NULL.",
+  "odp3" : "każdemu kluczowi głównemu odpowiada dokładnie jeden klucz obcy w tabeli lub tabelach powiązanych.",
+  "odp4" : "wartość klucza obcego w danej tabeli musi być albo równa wartości klucza głównego w tabeli z nią powiązanej albo równa wartości NULL.",
+  "pytanie" : "Integralność referencyjna w modelu relacyjnych baz danych oznacza, że",
+  "roz" : "wartość klucza obcego w danej tabeli musi być albo równa wartości klucza głównego w tabeli z nią powiązanej albo równa wartości NULL."
+}, {
+  "Id" : "107",
+  "odp1" : "logicznego.",
+  "odp2" : "liczbowego.",
+  "odp3" : "ciąg znaków.",
+  "odp4" : "wyliczeniowego.",
+  "pytanie" : "Deklaracja w języku JavaScript
+  var x=true;
+  powoduje, że zmienna x jest typu",
+  "roz" : "logicznego."  
+}, {
+  "Id" : "108",
+  "odp1" : "wielu wartości lub funkcji.",
+  "odp2" : "wielu wartości dowolnego typu.",
+  "odp3" : "wielu wartości wyłącznie liczbowych.",
+  "odp4" : "wielu wartości wyłącznie tekstowych.",
+  "pytanie" : "Obiekt typu array w języku JavaScript służy do przechowywania",
+  "roz" : "wielu wartości dowolnego typu." 
+}, {
+  "Id" : "109",
+  "odp1" : "polimorfizm.",
+  "odp2" : "hermetyzacja.",
+  "odp3" : "konkatenacja.",
+  "odp4" : "dziedziczenie.",
+  "pytanie" : "Ukrywanie pewnych pól lub metod obiektów danej klasy tak, aby były one dostępne tylko metodom wewnętrznym tej klasy lub funkcjom zaprzyjaźnionym, to",
+  "roz" : "hermetyzacja." 
+}, {
+  "Id" : "110",
+  "odp1" : "iteracja.",
+  "odp2" : "rekurencja.",
+  "odp3" : "hermetyzacja.",
+  "odp4" : "dziedziczenie.",
+  "pytanie" : "Odwołanie funkcji do samej siebie to",
+  "roz" : "rekurencja." 
+}, {
+  "Id" : "111",
+  "odp1" : "predefiniowaną, używaną do przekazywania danych do skryptów PHP poprzez adres strony.",
+  "odp2" : "predefiniowaną, używaną do gromadzenia wartości formularza po nagłówkach zlecenia HTTP (danych z formularza nie można zobaczyć w adresie).",
+  "odp3" : "zdefiniowaną przez twórcę strony, służącą do przekazywania danych z formularza przez adres strony.",
+  "odp4" : "zwykłą, zdefiniowaną przez twórcę strony.",
+  "pytanie" : "W języku PGP zmienna $_GET jest zmienną",
+  "roz" : "predefiniowaną, używaną do przekazywania danych do skryptów PHP poprzez adres strony." 
+}, {
+  "Id" : "112",
+  "odp1" : "instrukcja default.",
+  "odp2" : "konstrukcja switch(wyrażenie).",
+  "odp3" : "przynajmniej dwie instrukcje case.",
+  "odp4" : "instrukcja break po każdej instrukcji case.",
+  "pytanie" : "W języku PHP w instrukcji switch musi występować",
+  "roz" : "konstrukcja switch(wyrażenie)."
+}, {
+  "Id" : "113",
+  "odp1" : "__new",
+  "odp2" : "__open",
+  "odp3" : "__create",
+  "odp4" : "__construct",
+  "pytanie" : "Konstruktor w języku PHP jest metodą o nazwie",
+  "roz" : "__construct"
+}, {
+  "Id" : "114",
+  "odp1" : "badania właściwości programu.",
+  "odp2" : "sprawdzania szybkości programu.",
+  "odp3" : "wyszukiwania błędów w kodzie programu.",
+  "odp4" : "zoptymalizowania pamięci używanej przez aplikację.",
+  "pytanie" : "Debugger to program służący do",
+  "roz" : "wyszukiwania błędów w kodzie programu."
+}, {
+  "Id" : "115",
+  "odp1" : "2 4 6 8",
+  "odp2" : "1 3 5 7 9",
+  "odp3" : "2 4 6 8 10",
+  "odp4" : "1 2 3 4 5 6 7 8 9 10",
+  "pytanie" : "Kod zamieszczony w ramce spowoduje wypisanie liczb",
+  "roz" : "2 4 6 8 10"
+}, {
+  "Id" : "116",
+  "odp1" : "<?php
+  for($x=2;$x<=54;$x+=2){echo $x." ";}
+  ?>",
+  "odp2" : "<?php
+  for($x=1;$x<=55;$x++){echo $x." ";}
+  ?>",
+  "odp3" : "<?php
+  for($x=2;$x<=56;$x+=2){echo $x." ";}
+  ?>",
+  "odp4" : "<?php
+  for($x=1;$x<=55;$x+=1){echo $x." ";}
+  ?>",
+  "pytanie" : "który kod jest alternatywny do kodu zamieszczonego w ramce?",
+  "roz" : "<?php
+  for($x=2;$x<=54;$x+=2){echo $x." ";}
+  ?>"
+}, {
+  "id" : "117",
+  "odp1" : "przypisze zmiennej s zmienną t.",
+  "odp2" : "wyświetli długość napisu ze zmiennej t.",
+  "odp3" : "przypisze zmiennej s długość napisu ze zmiennej t.",
+  "odp4" : "przypisze zmiennej s fragment napisu ze zmiennej t, o określonej przez zmienną length długości.",
+  "pytanie" : "Zamieszczony w ramce fragment skryptu w języku JavaScript",
+  "roz" : "przypisze zmiennej s długość napisu ze zmiennej t."
+}, {
+  "Id" : "118",
+  "odp1" : ""ze"",
+  "odp2" : ""wo"",
+  "odp3" : ""owodzeni"",
+  "odp4" : ""wodzenia"",
+  "pytanie" : "Zamieszczony w ramce fragment skryptu w JavaScript wypisze",
+  "roz" : ""ze""
+}, {
+  "Id" : "119",
+  "odp1" : ""a" > "b"",
+  "odp2" : ""ab" > "c"",
+  "odp3" : ""abc" > "def"",
+  "odp4" : ""def" > "abc"",
+  "pytanie" : "Który fragment kodu JavaScript zwróci wartość true?",
+  "roz" : ""def" > "abc""
+}, {
+  "Id" : "120",
+  "odp1" : "początek skryptu.",
+  "odp2" : "operator alternatywny.",
+  "odp3" : "operator dzielenia całkowitego.",
+  "odp4" : "początek komentarza jednoliniowego.",
+  "pytanie" : "W kodzie PHP znak "/" oznacza",
+  "roz" : "początek komentarza jednoliniowego."
+}, {
+  "Id" : "121",
+  "odp1" : "tekstu, który bedzie wyświetlony, jeśli nie może być wyświetlona grafika.",
+  "odp2" : "atrybutów grafiki, takich jak rozmiar, obramowanie, wyrównanie.",
+  "odp3" : "podpisu, który zostanie wyświetlony pod grafiką.",
+  "odp4" : "ścieżki i nazwy pliku źródłowego.",
+  "pytanie" : "W języku HTML atrybut alt znacznika img jest wykorzystywany w celu zdefiniowan",
+  "roz" : "tekstu, który bedzie wyświetlony, jeśli nie może być wyświetlona grafika."
+}, {
+  "Id" : "122",
+  "odp1" : "zostanie ustawiony dolny margines dla bloku B",
+  "odp2" : "blok B będzie oddalony od bloku A o 20 px",
+  "odp3" : "blok A będzie przesunięty w lewo o 20 px",
+  "odp4" : "bloki A i B będą nachodzić na siebie.",
+  "pytanie" : "Analizując przedstawiony kod zapisany w języku HTML, można stwierdzić, że w przeglądarce",
+  "roz" : "blok B będzie oddalony od bloku A o 20 px"
+}, {
+  "Id" : "123",
+  "odp1" : "font-style: Verdana;",
+  "odp2" : "font-name: Verdana;",
+  "odp3" : "font-family: Verdana;",
+  "odp4" : "font-weight: Verdana;",
+  "pytanie" : "Aby ustawić czcionkę Verdana w kodzie CSS, należy wykorzystać właściwość",
+  "roz" : "font-family: Verdana;"
+}, {
+  "Id" : "124",
+  "odp1" : "div {background-color:blue;}",
+  "odp2" : "div {border-color:blue;}",
+  "odp3" : "div {shadow:blue;}",
+  "odp4" : "div {color:blue;}",
+  "pytanie" : "Który zapis stylu CSS ustawi tło bloku na kolor niebieski?",
+  "roz" : "div {background-color:blue;}"
+}, {
+  "Id" : "125",
+  "odp1" : "wszystkim odnośnikom odwiedzonym.",
+  "odp2" : "wszystkim odnośnikom nieodwiedzonym.",
+  "odp3" : "każdemu odnośnikowi niezależnie od aktualnego stanu.",
+  "odp4" : "odnośnikowi, w momencie kiedy najechał na niego kursor myszy.",
+  "pytanie" : "W zaznaczonym przykładzie pseudoklasa hover sprawi, że styl pogrubiony będzie przypisany",
+  "roz" : "odnośnikowi, w momencie kiedy najechał na niego kursor myszy."
+}, {
+  "Id" : "126",
+  "odp1" : "padding",
+  "odp2" : "margin",
+  "odp3" : "height",
+  "odp4" : "width",
+  "pytanie" : "W celu określenia wysokości obrazka wyświetlonego na stronie WWW należy wykorzystać właściwość CSS o nazwie",
+  "roz" : "height"
+}, {
+  "Id" : "127",
+  "odp1" : "Drupal",
+  "odp2" : "Joomla!",
+  "odp3" : "WordPress",
+  "odp4" : "Adobe Flash",
+  "pytanie" : "Który z wymienionych systemów nie jest systemem CMS?",
+  "roz" : "Adobe Flash"
+}, {
+  "Id" : "128",
+  "odp1" : "zdefiniowaniu treści witryny.",
+  "odp2" : "opracowaniu zestawu grafik dla witryny.",
+  "odp3" : "ustaleniu adresów URL dla podstron witryny.",
+  "odp4" : "rozmieszczeniu elementów w konkretnych miejscach witryny.",
+  "pytanie" : "Projektowanie logicznego układu witryny polega na",
+  "roz" : "Adobe Flash"
+}, {
+  "Id" : "129",
+  "odp1" : "ISO",
+  "odp2" : "W3C",
+  "odp3" : "NASK",
+  "odp4" : "WYSIWYG",
+  "pytanie" : "Organizacja zajmująca się ustalaniem standardu dla języka HTML nosi nazwę",
+  "roz" : "W3C"
+}, {
+  "Id" : "130",
+  "odp1" : "DHCP",
+  "odp2" : "POP3",
+  "odp3" : "DNS",
+  "odp4" : "FTP",
+  "pytanie" : "Za pomocą którego protokołu należy wysłać pliki na serwer WWW?",
+  "roz" : "W3C"
+}, {
+  "Id" : "131",
+  "odp1" : "szesnastkowej.",
+  "odp2" : "dziesiętnej.",
+  "odp3" : "CMYK.",
+  "odp4" : "HSL.",
+  "pytanie" : "W załączonym fragmencie kodu CSS kolor jest zapisany w postaci",
+  "roz" : "szesnastkowej."
+}, {
+  "Id" : "132",
+  "odp1" : "BMP",
+  "odp2" : "PNG",
+  "odp3" : "NEF",
+  "odp4" : "JPG",
+  "pytanie" : "Który z wymienionych formatów plików graficznych obsługuje przezroczystość?",
+  "roz" : "PNG"
+}, {
+  "Id" : "133",
+  "odp1" : "zwiększyć jego głębię kolorów.",
+  "odp2" : "zmniejszyć jego rozdzielczość.",
+  "odp3" : "zapisać w formacie BMP.",
+  "odp4" : "dodać kanał alfa.",
+  "pytanie" : "Jeśli rozmiar pliku graficznego jest zbyt duży do publikacji w Internecie, należy",
+  "roz" : "zmniejszyć jego rozdzielczość."
+}, {
+  "Id" : "134",
+  "odp1" : "TIFF",
+  "odp2" : "BMP",
+  "odp3" : "PSD",
+  "odp4" : "GIF",
+  "pytanie" : "Prosta animacja może być zapisana w formacie",
+  "roz" : "GIF"
+}, {
+  "Id" : "135",
+  "odp1" : "select AVG(nazwisko) into pensja",
+  "odp2" : "select VAR(pensja) from nazwisko",
+  "odp3" : "select VAR(pracownicy) into pensja",
+  "odp4" : "select AVG(pensja) from pracownicy",
+  "pytanie" : "Baza danych zawiera tabelę o nazwie pracownicy o polach: nazwisko, imie, pensja, wiek. Jak wygląda składnia polecenia wyznaczającego średnią pensję pracowników?",
+  "roz" : "select AVG(pensja) from pracownicy"
+}, {
+  "Id" : "136",
+  "odp1" : "CREATE TABLE",
+  "odp2" : "PLUS TABLE",
+  "odp3" : "NEW TABLE",
+  "odp4" : "ADD TABLE",
+  "pytanie" : "Aby stworzyć tabelę w bazie danych, należy zastosować polecenie SQL",
+  "roz" : "CREATE TABLE"
+}, {
+  "Id" : "137",
+  "odp1" : "tabelę A połączy się z tabelą B poprzez zdefiniowanie kluczy obcych.",
+  "odp2" : "zdefiniuje się trzecią tabelę z kluczami obcymi do tabel A i B.",
+  "odp3" : "wiele rekordów z tabeli A zduplikuje się w tabeli B.",
+  "odp4" : "tabela A będzie zawierała te same pola co tabela B.",
+  "pytanie" : "W celu stworzenia relacji wiele do wielu łączącej tabele A i B wystarczy, że",
+  "roz" : "zdefiniuje się trzecią tabelę z kluczami obcymi do tabel A i B."
+}, {
+  "Id" : "138",
+  "odp1" : "SELECT imie,nazwisko,klasa from uczniowie where rok_urodzenia = 1994",
+  "odp2" : "SELECT imie,nazwisko,klasa from uczniowie group by rok_urodzenia",
+  "odp3" : "SELECT imie,nazwisko,klasa from uczniowie order by rok_urodzenia",
+  "odp4" : "SELECT imie,nazwisko,klasa from uczniowie order by nazwisko",
+  "pytanie" : "W bazie danych, w celu uporządkowania listy uczniów według roku urodzenia, należy użyć polecenia",
+  "roz" : "SELECT imie,nazwisko,klasa from uczniowie order by rok_urodzenia"
+}, {
+  "Id" : "139",
+  "odp1" : "parametrycznej.",
+  "odp2" : "funkcjonalnej.",
+  "odp3" : "wybierającej.",
+  "odp4" : "krzyżowej.",
+  "pytanie" : "Kwerenda pozwalająca na wprowadzenie zmian w wielu rekordach lub przeniesienie wielu rekordów przy użyciu pojedynczej operacji, nosi nazwę kwerendy",
+  "roz" : "funkcjonalnej."
+}, {
+  "Id" : "140",
+  "odp1" : "CREATE INDEX zadania ADD COLUMN zadanie_kompletne int",
+  "odp2" : "ALTER TABLE zadania ADD COLUMN zadanie_kompletne int",
+  "odp3" : "INSERT INTO zadania VALUES zadanie_kompletne",
+  "odp4" : "ADD COLUMN zadanie_kompletne WITH zadania",
+  "pytanie" : "Które z polecń umożliwia dodanie kolumny zadanie_kompletne do tabeli zadania?",
+  "roz" : "ALTER TABLE zadania ADD COLUMN zadanie_kompletne int"
