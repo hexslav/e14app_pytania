@@ -108,7 +108,7 @@
   "roz" : "JPEG"
 }, {
   "Id" : "13",
-  "img_url" : "0",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/13.jpg?alt=media&token=a861c8cc-3ae7-4bb1-9710-845ddf2edde5",
   "odp1" : "animowaniu obiektu.",
   "odp2" : " zmianie warstwy obiektu.",
   "odp3" : "narysowaniu docelowego obiektu.",
@@ -153,7 +153,7 @@
   "roz" : "DELETE, INSERT, UPDATE"
 }, {
   "Id" : "18",
-  "img_url" : "0",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/18.jpg?alt=media&token=dab5bb3f-ff64-4a22-903d-c5d005c80e0b",
   "odp1" : "Rosnąco według parametru klasa.",
   "odp2" : "Malejąco według parametru klasa.",
   "odp3" : "Rosnąco według parametru srednia.",
@@ -162,7 +162,7 @@
   "roz" : "Malejąco według parametru klasa."
 }, {
   "Id" : "19",
-  "img_url" : "0",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/19.jpg?alt=media&token=c00c42ce-43da-4398-84ae-96b4c289d60a",
   "odp1" : "Według parametru wyrob_id wyłącznie dla trzech tabel.",
   "odp2" : "Według parametru wyrob_id dla wszystkich tabel.",
   "odp3" : "Według parametru nr_id wyłącznie dla trzech tabel.",
@@ -270,7 +270,7 @@
   "roz" : "całkowitych."
 }, {
   "Id" : "31",
-  "img_url" : "0",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/31.jpg?alt=media&token=b1729add-8442-4540-8e19-32d9fc026a5d",
   "odp1" : "Hierarchię zmiennych.",
   "odp2" : "Trzy zmienne niepowiązane ze sobą.",
   "odp3" : "Typ strukturalny składający się z trzech pól.",
@@ -288,7 +288,7 @@
   "roz" : "imperatywnego."
 }, {
   "Id" : "33",
-  "img_url" : "0",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/33.jpg?alt=media&token=bba7a065-6810-4fd8-aa65-4fdc6b96f2a3",
   "odp1" : "2 2 1",
   "odp2" : "2 1 1",
   "odp3" : "1 2 1",
@@ -297,7 +297,7 @@
   "roz" : "2 2 1"
 }, {
   "Id" : "34",
-  "img_url" : "0",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/34.jpg?alt=media&token=f835cd37-3b15-46aa-95f8-c33d43c8c022",
   "odp1" : "C",
   "odp2" : "C#",
   "odp3" : "PHP",
@@ -342,7 +342,7 @@
   "roz" : "AJAX"
 }, {
   "Id" : "39",
-  "img_url" : "0",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/39.jpg?alt=media&token=e464e75a-d214-415d-96b5-66ee2793a824",
   "odp1" : "Infrastruktura językowa (CLI).",
   "odp2" : "Biblioteka klas bazowych (BCL).",
   "odp3" : "Wspólne środowisko programistyczne (CLP).",
@@ -351,6 +351,7 @@
   "roz" : "Wspólne środowisko uruchomieniowe (CLR)."
 }, {
   "Id" : "40",
+  "img_url" : "0",
   "odp1" : "Mechanizm wykonywania aplikacji dla bibliotek klas.",
   "odp2" : "Mechanizm wykonywania aplikacji realizowany przez frameworki aplikacji internetowych (ASP.NET).",
   "odp3" : "Mechanizm wykonywania aplikacji realizowany przez funkcję Windows API (Application Programming Interface).",
@@ -359,14 +360,16 @@
   "roz" : "Mechanizm wykonywania aplikacji oparty na uprawnieniach kodu (CAS - Code Access Security) i na rolach (RBS - Role-Based Security)."
 }, {
   "Id" : "41",
+  "img_url" : "0",
   "odp1" : "<a href='mailto:adres'>tekst</a>",
   "odp2" : "<a href='http://:adres'>tekst</a>",
   "odp3" : "<a href=“http://adres“>tekst</a>",
-  "odp4" : "<a href="mailto:adres">tekst</a>",
+  "odp4" : "<a href=\"mailto:adres\">tekst</a>",
   "pytanie" : "Który z odsyłaczy posiada poprawną konstrukcję?  ",
-  "roz" : "<a href="mailto:adres">tekst</a>"
+  "roz" : "<a href=\"mailto:adres\">tekst</a>"
 }, {
   "Id" : "42",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/42.jpg?alt=media&token=0ed60cb5-418d-4bd5-ab23-df0345dfe870",
   "odp1" : "wypunktowaną.",
   "odp2" : "numerowaną.",
   "odp3" : "<odnośników.",
@@ -375,18 +378,16 @@
   "roz" : "numerowaną."
 }, {
   "Id" : "43",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/43.jpg?alt=media&token=032163c0-30f2-400f-b656-59128e8f40b8",
   "odp1" : "rys. A",
   "odp2" : "rys. B",
   "odp3" : "rys. C",
   "odp4" : "rys. D",
-  "pytanie" : "Polecenie colspan służy do łączenia komórek tabeli w poziomie, natomiast rowspan w pionie. Którą z tabel wyświetli fragment kodu napisanego w języku HTML?
-  <table border="1" cellspaing="0" cellpadding="10" 
-  <tr> <td rowspan="2">&nbsp</td> <td>&nbsp</td> </tr>
-  <tr> <td>&nbsp</td> </tr>
-  </table>",
+  "pytanie" : "Polecenie colspan służy do łączenia komórek tabeli w poziomie, natomiast rowspan w pionie. Którą z tabel wyświetli fragment kodu napisanego w języku HTML? \n <table border=\"1\" cellspaing=\"0\" cellpadding=\"10\"> \n  <tr> \n <td rowspan=\"2\">&nbsp</td> \n <td>&nbsp</td> \n </tr> \n <tr> \n <td>&nbsp</td> \n </tr> \n </table>",
   "roz" : "rys. B"
 }, {
   "Id" : "44",
+  "img_url" : "0",
   "odp1" : "autora.",
   "odp2" : "kodowania.",
   "odp3" : "typu dokumentu.",
@@ -395,30 +396,25 @@
   "roz" : "typu dokumentu."
 }, {
   "Id" : "45",
-  "odp1" : "<link rel="stylesheet" type="text/css" href="./style/default.css" />",
-  "odp2" : "<link rel="stylesheet" type="text/css" href="c:/style/default.css" />",
-  "odp3" : "<link rel="stylesheet" type="text/css" href="...\style\default.css" />",
-  "odp4" : "<link rel="stylesheet" type="text/css" href="c:\style/default.css" />",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/45.jpg?alt=media&token=ffbe7c33-4c75-42b5-973e-3568d536bd5b",
+  "odp1" : "<link rel=\"stylesheet\" type=\"text/css\" href=\"./style/default.css\" />",
+  "odp2" : "<link rel=\"stylesheet\" type=\"text/css\" href=\"c:/style/default.css\" />",
+  "odp3" : "<link rel=\"stylesheet\" type=\"text/css\" href=\"...\\style\\default.css\" />",
+  "odp4" : "<link rel=\"stylesheet\" type=\"text/css\" href=\"c:\\style/default.css\" />",
   "pytanie" : "Wskaż sposób, w jaki należy odwołać się do pliku default.css, jeśli index.html znajduje się bezpośrednio w katalogu Strona?",
-  "roz" : "<link rel="stylesheet" type="text/css" href="./style/default.css" />" 
+  "roz" : "<link rel=\"stylesheet\" type=\"text/css\" href=\"./style/default.css\" />" 
 }, {
   "Id" : "46",
+  "img_url" : "0",
   "odp1" : "Jest to styl lokalny.",
   "odp2" : " Zdefiniowano dwie klasy.",
   "odp3" : "Akapit będzie transponowany na małe litery.",
   "odp4" : "Odnośnik będzie pisany czcionką 14 punktów.",
-  "pytanie" : "Wskaż stwierdzenie, które jest prawdziwe dla następującej definicji stylu:
-  <STYLE type="text/css">
-  <!--
-  P {color:blue; font-size:14pt; font-style:italic;}
-  A {font-size:16pt; text-transform:lowercase;}
-  TD.niebieski {color:blue}
-  TD.czerwony {color:red}
-  -->
-  </STYLE>",
+  "pytanie" : "Wskaż stwierdzenie, które jest prawdziwe dla następującej definicji stylu: <STYLE type=\"text/css\"> <!-- P {color:blue; font-size:14pt; font-style:italic;}A {font-size:16pt; text-transform:lowercase;} TD.niebieski {color:blue} TD.czerwony {color:red} --> </STYLE>",
   "roz" : " Zdefiniowano dwie klasy."
 }, {
   "Id" : "47",
+  "img_url" : "0",
   "odp1" : "#FF00FF",
   "odp2" : "#00FFFF",
   "odp3" : "#FFFF00",
@@ -427,6 +423,7 @@
   "roz" : "#FFFF00"
 }, {
   "Id" : "48",
+  "img_url" : "0",
   "odp1" : "GIF",
   "odp2" : "ACE",
   "odp3" : "SWF",
@@ -435,6 +432,7 @@
   "roz" : "ACE"
 }, {
   "Id" : "49",
+  "img_url" : "0",
   "odp1" : "GIF",
   "odp2" : "RAW",
   "odp3" : "BMP",
@@ -475,6 +473,7 @@
   "roz" : "Określenie celu, stworzenie tabel, utworzenie relacji, normalizacja."
 }, {
   "Id" : "54",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/54.jpg?alt=media&token=fb956110-d6f0-43a2-acd4-dcc0b0d13c3d",
   "odp1" : "Jeden do jednego.",
   "odp2" : "Wiele do jednego.",
   "odp3" : "Jeden do wielu",
@@ -483,6 +482,7 @@
   "roz" : "Wiele do wielu"
 }, {
   "Id" : "55",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/55.jpg?alt=media&token=5a97ad76-2b4d-4896-bdc7-18d70e400cb2",
   "odp1" : "Textarea, Option, Input(Checkbox), Input(Checkbox), Input(Submit), Input(Reset)",
   "odp2" : "Input(Text), Select, Input(Radio), Input(Radio), Input(Submit), Input(Reset)",
   "odp3" : "Textarea, Select, Input(Radio), Input(Radio), Input(Reset), Input(Submit)",
@@ -490,13 +490,14 @@
   "pytanie" : "Wskaż typ relacji pomiędzy tabelami: Tabela1 i Tabela3",
   "roz" : "Input(Text), Select, Input(Radio), Input(Radio), Input(Submit), Input(Reset)"
 }, {
-  "Id" : "57",
-  "odp1" : "LIKE",
-  "odp2" : "DISTINCT",
-  "odp3" : "ORDER BY",
-  "odp4" : "GROUP BY",
-  "pytanie" : "Które ze słów kluczowych języka SQL należy użyć, aby wyeliminować duplikaty?",
-  "roz" : "DISTINCT"
+  "Id" : "56",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/56.jpg?alt=media&token=fc2429bc-af6b-450e-976b-5ed908d337db",
+  "odp1" : "Tagi inteligentne.",
+  "odp2" : "Wartość domyślną.",
+  "odp3" : "Maskę wprowadzania.",
+  "odp4" : "Regułę sprawdzania poprawności.",
+  "pytanie" : "Którą z właściwości pola tabeli należy zdefiniować, aby pole przyjmowało dane składające się wyłącznie z cyfr?",
+  "roz" : "Maskę wprowadzania."
 }, {
   "Id" : "57",
   "odp1" : "LIKE",
@@ -511,8 +512,7 @@
   "odp2" : "Tabela o nazwie dane posiada jedną kolumnę liczb całkowitych.",
   "odp3" : "Tabela posiada jedną kolumnę zawierającą trzyelementowe tablice.",
   "odp4" : "Kolumny tabeli dane nazywają się: kolumna1, kolumna2, kolumna3.",
-  "pytanie" : "Które ze stwierdzeń prawidłowo charakteryzuje zdefiniowaną tabelę?
-  CREATE TABLE dane(kolumna INTEGER(3));",
+  "pytanie" : "Które ze stwierdzeń prawidłowo charakteryzuje zdefiniowaną tabelę? CREATE TABLE dane(kolumna INTEGER(3));",
   "roz" : "Tabela o nazwie dane posiada jedną kolumnę liczb całkowitych."
 }, {
   "Id" : "59",
@@ -556,12 +556,12 @@
   "roz" : "ksort()"
 }, {
   "Id" : "64",
-  "odp1" : "cookie("owoce", "jabłko", 3600);",
-  "odp2" : "cookie("jabłko", "owoce", 3600);",
-  "odp3" : "setcookie("owoce", "jabłko", time()+3600);",
-  "odp4" : "setcookie("jabłko", "owoce", time()+3600);",
-  "pytanie" : "W skrypcie PHP należy utworzyć cookie o nazwie "owoce", które przyjmie wartość "jabłko". Cookie ma być dostępne przez jedną godzinę od jego utworzenia. W tym celu należy w skrypcie PHP użyć funkcji:",
-  "roz" : "setcookie("owoce", "jabłko", time()+3600);"}, {
+  "odp1" : "cookie(\"owoce\", \"jabłko\", 3600);",
+  "odp2" : "cookie(\"jabłko\", \"owoce\", 3600);",
+  "odp3" : "setcookie(\"owoce\", \"jabłko\", time()+3600);",
+  "odp4" : "setcookie(\"jabłko\", \"owoce\", time()+3600);",
+  "pytanie" : "W skrypcie PHP należy utworzyć cookie o nazwie \"owoce\", które przyjmie wartość \"jabłko\". Cookie ma być dostępne przez jedną godzinę od jego utworzenia. W tym celu należy w skrypcie PHP użyć funkcji:",
+  "roz" : "setcookie(\"owoce\", \"jabłko\", time()+3600);"
 }, {
   "Id" : "65",
   "odp1" : "long",
@@ -580,6 +580,7 @@
   "roz" : "logiczny."
 }, {
   "Id" : "67",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/67.jpg?alt=media&token=3bc278fe-dc07-4c3f-8c64-64fb23bc3157",
   "odp1" : "pkt Punkt;",
   "odp2" : "pkt= new Punkt();",
   "odp3" : "pkt Punkt();",
@@ -588,18 +589,12 @@
   "roz" : "pkt= new Punkt();"
 }, {
   "Id" : "68",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/68.jpg?alt=media&token=f54c9b29-1aad-4bc1-88a7-b6992911abdf",
   "odp1" : "rys. A",
   "odp2" : "rys B",
   "odp3" : "rys. C",
   "odp4" : "rys. D",
-  "pytanie" : "28. Wskaż wynik wykonania skryptu napisanego w języku  PHP 
-  <?php
-  $tablica=array(10=>"Perl",14=>"PHP",20=>"Python",22=>"Pike");
-  asort($tablica);
-  print("<pre>");
-  print_r($tablica);
-  print("</pre>");
-  ?>",
+  "pytanie" : "28. Wskaż wynik wykonania skryptu napisanego w języku  PHP  <?php $tablica=array(10=>\"Perl\",14=>\"PHP\",20=>\"Python\",22=>\"Pike\");  asort($tablica); print(\"<pre>\"); print_r($tablica);  print(\"</pre>\"); ?>",
   "roz" : "rys. A"
 }, {
   "Id" : "69",
@@ -611,6 +606,7 @@
   "roz" : "SQL jest językiem programowania strukturalnego."
 }, {
   "Id" : "70",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/70.jpg?alt=media&token=279f2c2b-4510-472b-9841-98700028dbb0",
   "odp1" : "0",
   "odp2" : "2",
   "odp3" : "3",
@@ -623,12 +619,7 @@
   "odp2" : "Funkcja nie zwraca wartości.",
   "odp3" : "Funkcja posiada dwa parametry.",
   "odp4" : "Funkcja odwołuje się do parametrów przez referencję.",
-  "pytanie" : "Wskaż stwierdzenie, które nie jest prawdziwe dla następującej definicji funkcji w języku C++?
-  void zamien(float&x, float &y){
-       float tmp;
-      tmp=x;
-      x=y;
-      y=tmp;}",
+  "pytanie" : "Wskaż stwierdzenie, które nie jest prawdziwe dla następującej definicji funkcji w języku C++? void zamien(float&x, float &y){ float tmp; tmp=x;  x=y;  y=tmp;}",
   "roz" : "Funkcja zwraca wartość."
 }, {
   "Id" : "72",
@@ -652,9 +643,7 @@
   "odp2" : "4",
   "odp3" : "3.5",
   "odp4" : "4.05",
-  "pytanie" : "Jaką wartość zwróci funkcja zao zdefiniowana w języku C++, wywołana z aktualnym parametrem 3.5);
-  int zao(float x){
-  return(x+0.5);}",
+  "pytanie" : "Jaką wartość zwróci funkcja zao zdefiniowana w języku C++, wywołana z aktualnym parametrem 3.5); int zao(float x){ return(x+0.5);}",
   "roz" : "4"
 }, {
   "Id" : "75",
@@ -666,6 +655,7 @@
   "roz" : "kompilowanie."
 }, {
   "Id" : "76",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/76.jpg?alt=media&token=ee76a625-e362-4436-9878-21a9fc65c8de",
   "odp1" : "Pętla wykona się tylko raz.",
   "odp2" : "Funkcja posiada pętlę powtarzającą się 3 razy.",
   "odp3" : "Tekst będzie wczytywany do momentu podania liczby większej niż 3.",
@@ -674,6 +664,7 @@
   "roz" : "Wczytywanie tekstu zakończy się, gdy tekst będzie się składał przynajmniej z 3 znaków."
 }, {
   "Id" : "77",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/77.jpg?alt=media&token=75ced92a-4e28-4569-b4d2-8a75896795a2",
   "odp1" : "12,4",
   "odp2" : "12,5",
   "odp3" : "15,4",
@@ -686,7 +677,7 @@
   "odp2" : "liczbowego.",
   "odp3" : "string (ciąg znaków).",
   "odp4" : "nieokreślonego (undefined).",
-  "pytanie" : "Poprzez deklarację var x="true"; w języku JavaScript tworzy się zmienną typu",
+  "pytanie" : "Poprzez deklarację var x=\"true\"; w języku JavaScript tworzy się zmienną typu",
   "roz" : "string (ciąg znaków)."
 }, {
   "Id" : "79",
@@ -706,12 +697,12 @@
   "roz" : "debugowanie."
 }, {
   "Id" : "81",
-  "odp1" : "<background=""></background>",
-  "odp2" : "<body bgcolor=""></body>",
-  "odp3" : "<bgcolor=""></bgcolor>",
-  "odp4" : "<body background=""></body>",
+  "odp1" : "<background=\"\"></background>",
+  "odp2" : "<body bgcolor=\"\"></body>",
+  "odp3" : "<bgcolor=\"\"></bgcolor>",
+  "odp4" : "<body background=\"\"></body>",
   "pytanie" : "Aby ustawić tło na stronie www należy użyć polecenia",
-  "roz" : "<body bgcolor=""></body>"
+  "roz" : "<body bgcolor=\"\"></body>"
 }, {
   "Id" : "82",
   "odp1" : "barwy czcionki.",
@@ -730,6 +721,7 @@
   "roz" : "polskich liter, takich jak: ś, ć, ń, ó, ą."
 }, {
   "Id" : "84",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/84.jpg?alt=media&token=8cb2edfa-6d78-4724-9f4e-757ebcf32e3c",
   "odp1" : "dwóch wierszy i dwóch kolumn.",
   "odp2" : "dwóch wierszy i jednej kolumny.",
   "odp3" : "jednego wiersza i dwóch kolumn.",
@@ -766,7 +758,7 @@
   "odp2" : "WYSIWYG",
   "odp3" : "WEB STUDIO",
   "odp4" : "VISUAL EDITOR",
-  "pytanie" : "Jak nazywa się edytor wspomagający tworzenie stron internetowych, którego sposób działania można w polskim tłumaczeniu określić jako "otrzymujesz to, co widzisz"?",
+  "pytanie" : "Jak nazywa się edytor wspomagający tworzenie stron internetowych, którego sposób działania można w polskim tłumaczeniu określić jako \"otrzymujesz to, co widzisz\"?",
   "roz" : "WYSIWYG"
 }, {
   "Id" : "89",
@@ -826,6 +818,7 @@
   "roz" : "częstotliwości drgania fali akustycznej."
 }, {
   "Id" : "96",
+  "img_url" : "0",
   "odp1" : "char",
   "odp2" : "text",
   "odp3" : "time",
@@ -834,6 +827,7 @@
   "roz" : "char"
 }, {
   "Id" : "97",
+  "img_url" : "0",
   "odp1" : "/",
   "odp2" : "||",
   "odp3" : "&",
@@ -842,6 +836,7 @@
   "roz" : "%"
 }, {
   "Id" : "98",
+  "img_url" : "0",
   "odp1" : "usunięcie tabeli USA",
   "odp2" : "modyfikację tabeli USA",
   "odp3" : "nadpisanie starej tabeli USA.",
@@ -850,16 +845,16 @@
   "roz" : "modyfikację tabeli USA"
 }, {
   "Id" : "99",
+  "img_url" : "0",
   "odp1" : "imion, nazwisk i numerów PESEL osób w wieku poniżej 18 lat",
   "odp2" : "imion,  numerów PESEL i wieku osób z przedziału od 18 do 30 lat.",
   "odp3" : "imion, numerów PESEL i wieku osób posiadających powyżej 30 lat.",
   "odp4" : "imion, numerów PESEL i wieku osób w wieku  równym 18 lub 30 lat.",
-  "pytanie" : "Kod
-  SELECT imie, pesel, wiek FROM dane WHERE wiek IN (18,30)
-spowoduje wybranie",
+  "pytanie" : "Kod  SELECT imie, pesel, wiek FROM dane WHERE wiek IN (18,30) spowoduje wybranie",
   "roz" : "imion, numerów PESEL i wieku osób w wieku  równym 18 lub 30 lat."
 }, {
   "Id" : "100",
+  "img_url" : "0",
   "odp1" : "SELECT COUNT(*) FROM Koty",
   "odp2" : "SELECT ROWNUM() FROM Koty",
   "odp3" : "SELECT COUNT(Koty) AS ROWNUM",
