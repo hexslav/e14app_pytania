@@ -1106,7 +1106,7 @@
   "odp3" : "DNS",
   "odp4" : "FTP",
   "pytanie" : "Za pomocą którego protokołu należy wysłać pliki na serwer WWW?",
-  "roz" : "W3C"
+  "roz" : "FTP"
 }, {
   "Id" : "131",
   "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/131.jpg?alt=media&token=a0662a15-127b-4bed-a613-e588358536f5",
