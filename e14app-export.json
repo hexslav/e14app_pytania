@@ -867,7 +867,7 @@
   "odp2" : "CONSTRAINT ELEC(nazwisko, imie) FOREIGN REFERENCES KEY osoby (nazwisko, imie)",
   "odp3" : "CONSTRAINT fk_osoba_uczen FOREIGN KEY(nazwisko, imie) REFERENCES osoby (nazwisko, imie)",
   "odp4" : "SELECT COUNT(ROWNUM) FROM Koty",
-  "pytanie" : "by podczas tworzenia tabeli utworzyć klucz obcy na wielu kolumnach, należy użyć polecenia",
+  "pytanie" : "By podczas tworzenia tabeli utworzyć klucz obcy na wielu kolumnach, należy użyć polecenia",
   "roz" : "CONSTRAINT fk_osoba_uczen FOREIGN KEY ON(nazwisko, imie) REFERENCES osoby (nazwisko, imie)"
 }, {
   "Id" : "102",
@@ -915,9 +915,7 @@
   "odp2" : "liczbowego.",
   "odp3" : "ciąg znaków.",
   "odp4" : "wyliczeniowego.",
-  "pytanie" : "Deklaracja w języku JavaScript
-  var x=true;
-  powoduje, że zmienna x jest typu",
+  "pytanie" : "Deklaracja w języku JavaScript var x=true; powoduje, że zmienna x jest typu",
   "roz" : "logicznego."  
 }, {
   "Id" : "108",
@@ -985,22 +983,12 @@
   "roz" : "2 4 6 8 10"
 }, {
   "Id" : "116",
-  "odp1" : "<?php
-  for($x=2;$x<=54;$x+=2){echo $x." ";}
-  ?>",
-  "odp2" : "<?php
-  for($x=1;$x<=55;$x++){echo $x." ";}
-  ?>",
-  "odp3" : "<?php
-  for($x=2;$x<=56;$x+=2){echo $x." ";}
-  ?>",
-  "odp4" : "<?php
-  for($x=1;$x<=55;$x+=1){echo $x." ";}
-  ?>",
-  "pytanie" : "który kod jest alternatywny do kodu zamieszczonego w ramce?",
-  "roz" : "<?php
-  for($x=2;$x<=54;$x+=2){echo $x." ";}
-  ?>"
+  "odp1" : "<?php for($x=2;$x<=54;$x+=2){echo $x.\" \";} ?>",
+  "odp2" : "<?php for($x=1;$x<=55;$x++){echo $x.\" \";} ?>",
+  "odp3" : "<?php for($x=2;$x<=56;$x+=2){echo $x.\" \";} ?>",
+  "odp4" : "<?php for($x=1;$x<=55;$x+=1){echo $x.\" \";} ?>",
+  "pytanie" : "Który kod jest alternatywny do kodu zamieszczonego w ramce?",
+  "roz" : "<?php for($x=2;$x<=54;$x+=2){echo $x.\" \";} ?>"
 }, {
   "id" : "117",
   "odp1" : "przypisze zmiennej s zmienną t.",
@@ -1011,27 +999,27 @@
   "roz" : "przypisze zmiennej s długość napisu ze zmiennej t."
 }, {
   "Id" : "118",
-  "odp1" : ""ze"",
-  "odp2" : ""wo"",
-  "odp3" : ""owodzeni"",
-  "odp4" : ""wodzenia"",
+  "odp1" : "ze",
+  "odp2" : "wo",
+  "odp3" : "owodzeni",
+  "odp4" : "wodzenia",
   "pytanie" : "Zamieszczony w ramce fragment skryptu w JavaScript wypisze",
-  "roz" : ""ze""
+  "roz" : "ze"
 }, {
   "Id" : "119",
-  "odp1" : ""a" > "b"",
-  "odp2" : ""ab" > "c"",
-  "odp3" : ""abc" > "def"",
-  "odp4" : ""def" > "abc"",
+  "odp1" : "a > b",
+  "odp2" : "ab > c",
+  "odp3" : "abc > def",
+  "odp4" : "def > abc",
   "pytanie" : "Który fragment kodu JavaScript zwróci wartość true?",
-  "roz" : ""def" > "abc""
+  "roz" : "def > abc"
 }, {
   "Id" : "120",
   "odp1" : "początek skryptu.",
   "odp2" : "operator alternatywny.",
   "odp3" : "operator dzielenia całkowitego.",
   "odp4" : "początek komentarza jednoliniowego.",
-  "pytanie" : "W kodzie PHP znak "/" oznacza",
+  "pytanie" : "W kodzie PHP znak \"\//\" oznacza",
   "roz" : "początek komentarza jednoliniowego."
 }, {
   "Id" : "121",
@@ -1192,4 +1180,5 @@
   "odp3" : "INSERT INTO zadania VALUES zadanie_kompletne",
   "odp4" : "ADD COLUMN zadanie_kompletne WITH zadania",
   "pytanie" : "Które z polecń umożliwia dodanie kolumny zadanie_kompletne do tabeli zadania?",
-  "roz" : "ALTER TABLE zadania ADD COLUMN zadanie_kompletne int"
+  "roz" : "ALTER TABLE zadania ADD COLUMN zadanie_kompletne int"}
+]
