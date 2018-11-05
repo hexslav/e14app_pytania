@@ -992,7 +992,7 @@
   "pytanie" : "Który kod jest alternatywny do kodu zamieszczonego w ramce?",
   "roz" : "<?php for($x=2;$x<=54;$x+=2){echo $x.\" \";} ?>"
 }, {
-  "id" : "117",
+  "Id" : "117",
   "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/117.jpg?alt=media&token=3b820f7e-e9e5-4b4e-a5ed-35c38eae08ec",
   "odp1" : "przypisze zmiennej s zmienną t.",
   "odp2" : "wyświetli długość napisu ze zmiennej t.",
