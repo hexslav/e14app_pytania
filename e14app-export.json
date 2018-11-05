@@ -975,6 +975,7 @@
   "roz" : "wyszukiwania błędów w kodzie programu."
 }, {
   "Id" : "115",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/115.jpg?alt=media&token=92cde9fc-1866-4736-b224-892617b65fc3",
   "odp1" : "2 4 6 8",
   "odp2" : "1 3 5 7 9",
   "odp3" : "2 4 6 8 10",
@@ -983,6 +984,7 @@
   "roz" : "2 4 6 8 10"
 }, {
   "Id" : "116",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/116.jpg?alt=media&token=dfb9eae7-bcc9-43eb-bb01-02a939e80445",
   "odp1" : "<?php for($x=2;$x<=54;$x+=2){echo $x.\" \";} ?>",
   "odp2" : "<?php for($x=1;$x<=55;$x++){echo $x.\" \";} ?>",
   "odp3" : "<?php for($x=2;$x<=56;$x+=2){echo $x.\" \";} ?>",
@@ -991,6 +993,7 @@
   "roz" : "<?php for($x=2;$x<=54;$x+=2){echo $x.\" \";} ?>"
 }, {
   "id" : "117",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/117.jpg?alt=media&token=3b820f7e-e9e5-4b4e-a5ed-35c38eae08ec",
   "odp1" : "przypisze zmiennej s zmienną t.",
   "odp2" : "wyświetli długość napisu ze zmiennej t.",
   "odp3" : "przypisze zmiennej s długość napisu ze zmiennej t.",
@@ -999,6 +1002,7 @@
   "roz" : "przypisze zmiennej s długość napisu ze zmiennej t."
 }, {
   "Id" : "118",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/118.jpg?alt=media&token=b2f67efe-119c-472c-a440-cf43da89776d",
   "odp1" : "ze",
   "odp2" : "wo",
   "odp3" : "owodzeni",
@@ -1031,6 +1035,7 @@
   "roz" : "tekstu, który bedzie wyświetlony, jeśli nie może być wyświetlona grafika."
 }, {
   "Id" : "122",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/122.jpg?alt=media&token=0690ff45-ed9a-41cb-9a68-893cb654be58",
   "odp1" : "zostanie ustawiony dolny margines dla bloku B",
   "odp2" : "blok B będzie oddalony od bloku A o 20 px",
   "odp3" : "blok A będzie przesunięty w lewo o 20 px",
@@ -1055,6 +1060,7 @@
   "roz" : "div {background-color:blue;}"
 }, {
   "Id" : "125",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/125.jpg?alt=media&token=b6bc0f18-bbcd-4573-b700-f9d4f6e2756b",
   "odp1" : "wszystkim odnośnikom odwiedzonym.",
   "odp2" : "wszystkim odnośnikom nieodwiedzonym.",
   "odp3" : "każdemu odnośnikowi niezależnie od aktualnego stanu.",
@@ -1103,6 +1109,7 @@
   "roz" : "W3C"
 }, {
   "Id" : "131",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/131.jpg?alt=media&token=a0662a15-127b-4bed-a613-e588358536f5",
   "odp1" : "szesnastkowej.",
   "odp2" : "dziesiętnej.",
   "odp3" : "CMYK.",
