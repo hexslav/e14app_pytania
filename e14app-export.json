@@ -1187,5 +1187,491 @@
   "odp3" : "INSERT INTO zadania VALUES zadanie_kompletne",
   "odp4" : "ADD COLUMN zadanie_kompletne WITH zadania",
   "pytanie" : "Które z polecń umożliwia dodanie kolumny zadanie_kompletne do tabeli zadania?",
-  "roz" : "ALTER TABLE zadania ADD COLUMN zadanie_kompletne int"}
-]
+  "roz" : "ALTER TABLE zadania ADD COLUMN zadanie_kompletne int"
+}, {
+  "Id" : "141",
+  "odp1" : "Ustalenie zabezpieczeń na poziomie użytkownika oraz sesji.",
+  "odp2" : "Funkcje anonimowe oraz ustalenie hasła otwarcia bazy danych.",
+  "odp3" : "Zaszyfrowanie pliku bazy danych oraz SMSy z kodem autoryzującym.",
+  "odp4" : "Ustalenie hasła do otwarcia bazy danych oraz zabezpieczeń na poziomie użytkownika.",
+  "pytanie" : "Wskaż dwa sposoby zabezpieczenia bazy danych Microsoft Access",
+  "roz" : "Ustalenie hasła do otwarcia bazy danych oraz zabezpieczeń na poziomie użytkownika."  
+}, {
+  "Id" : "142",
+  "odp1" : "modyfikowanie danych w tabeli.",
+  "odp2" : "usunięcie danych z tabeli.",
+  "odp3" : "odczyt danych z tabeli.",
+  "odp4" : "tworzenie tabeli.",
+  "pytanie" : "W języku SQL przywilej SELECT polecenia GRANT pozwala użytkownikowi baz danych na",
+  "roz" : "odczyt danych z tabeli."
+}, {
+  "Id" : "143",
+  "odp1" : "centralnego subskrybenta.",
+  "odp2" : "centralnego wydawcy.",
+  "odp3" : "równorzędnym.",
+  "odp4" : "rozproszonym.",
+  "pytanie" : "Fizyczny model replikacji bazy danych przedstawiony na rysunku jest modelem",
+  "roz" : "centralnego wydawcy."
+}, {
+  "Id" : "144",
+  "odp1" : "z kwerendy aktualizującej.",
+  "odp2" : "z więzów integralności.",
+  "odp3" : "z defragmentacji bazy.",
+  "odp4" : "z archiwizacji bazy.",
+  "pytanie" : "W celu zapewnienia spójności danych w bazie programu Microsoft Access należy skorzystać",
+  "roz" : "z więzów integralności."
+}, {
+  "Id" : "145",
+  "odp1" : "REGENERATE TABLE tbl_name",
+  "odp2" : "OPTIMIZE TABLE tbl_name",
+  "odp3" : "ANALYZE TABLE tbl_name",
+  "odp4" : "REPAIR TABLE tbl_name",
+  "pytanie" : "Które z poleceń naprawi uszkodzoną tabelę w języku SQL?",
+  "roz" : "z więzów integralności."
+}, {
+  "Id" : "146",
+  "odp1" : "znaku.",
+  "odp2" : "liczby całkowitej.",
+  "odp3" : "wartości logicznej.",
+  "odp4" : "liczby rzeczywistej.",
+  "pytanie" : "W językach programowania zmienna typu integer służy do przechowywania",
+  "roz" : "liczby całkowitej."
+}, {
+  "Id" : "147",
+  "odp1" : "tablicy 50 elementów o składowych łańcuchowych.",
+  "odp2" : "tablicy 50 elementów o składowych strukturalnych.",
+  "odp3" : "struktury 50 elementów o składowych tablicowych.",
+  "odp4" : "klasy 50 elementów typu tablicowego.",
+  "pytanie" : "W strukturalnych językach programowania w celu przechowania informacji o 50 uczniach (ich imionach, nazwiskach, średniej ocen) należy użyć",
+  "roz" : "tablicy 50 elementów o składowych strukturalnych."
+}, {
+  "Id" : "148",
+  "odp1" : "tylko na początku skryptu.",
+  "odp2" : "w momencie pierwszego użycia zmiennej.",
+  "odp3" : "tylko jeśl podamy typ zmiennej i jej nazwę.",
+  "odp4" : "zawsze z poprzedzającym nazwę znakiem $.",
+  "pytanie" : "W języku skryptowym JavaScript zmienne mogą być deklarowane",
+  "roz" : "w momencie pierwszego użycia zmiennej."
+}, {
+  "Id" : "149",
+  "odp1" : " break",
+  "odp2" : "echo",
+  "odp3" : "type",
+  "odp4" : "exit",
+  "pytanie" : "Która z instrukcji umożliwia wysłanie tekstu do przeglądarki?",
+  "roz" : "echo"
+}, {
+  "Id" : "150",
+  "odp1" : "od 10 do 1",
+  "odp2" : "od 10 do 2",
+  "odp3" : "od 1 do 10",
+  "odp4" : "od 2 do 10",
+  "pytanie" : "Wynikiem działania zamieszczonej pętli zapisanej językiem PHP jest wypisanie kolejnych liczb",
+  "roz" : "od 10 do 1"
+}, {
+  "Id" : "151",
+  "odp1" : "function licz($a) {echo $a/2;}",
+  "odp2" : "function licz($a) {echo $a*$a/2;}",
+  "odp3" : "function licz($a) {return echo $a/2;}",
+  "odp4" : "function licz($a) {return echo $a*$a/2;}",
+  "pytanie" : "Która ze zdefiniowanych funkcji w języku PHP jako wynik zwraca połowę kwadratu wartości przekazanej?",
+  "roz" : "function licz($a) {return echo $a*$a/2;}"
+}, {
+  "Id" : "152",
+  "odp1" : "skompilowany po stronie klienta.",
+  "odp2" : "skompilowany po stronie serwera.",
+  "odp3" : " zinterpretowany po stronie klienta.",
+  "odp4" : "zinterpretowany po stronie serwera.",
+  "pytanie" : "Aby zobaczyć wyniki działania skryptu napisanego w języku PHP, będącego elementem strony WWW, musi być on",
+  "roz" : "zinterpretowany po stronie serwera."
+}, {
+  "Id" : "153",
+  "odp1" : "wynik dzielenia liczby przez 2 jest równy 0.",
+  "odp2" : "jest ona liczbą pierwszą.",
+  "odp3" : "jest ona parzysta.",
+  "odp4" : "jest ona dodatnia.",
+  "pytanie" : "Warunek zapisany jęykiem PHP wypisze liczbę, gdy",
+  "roz" : "jest ona parzysta."
+}, {
+  "Id" : "154",
+  "odp1" : "onKeyDown",
+  "odp2" : "onDblClick",
+  "odp3" : "onLoad",
+  "odp4" : " onClick",
+  "pytanie" : "Zdarzenie JavaScript, będące reakcją na pojedynczo kliknięty dowolny element strony, nosi nazwę",
+  "roz" : " onClick"
+}, {
+  "Id" : "155",
+  "odp1" : "Usunięcie akapitu ze strony.",
+  "odp2" : "Dodanie akapitu na koniec strony.",
+  "odp3" : "Dodanie akapitu na początku strony.",
+  "odp4" : "Wyświetlenie okna dialogowego z napisem akapit.",
+  "pytanie" : "Wskaż rezultat działania fragmentu kodu JavaScript",
+  "roz" : "Dodanie akapitu na koniec strony."
+}, {
+  "Id" : "156",
+  "odp1" : "domena i obsługa błędów.",
+  "odp2" : "obsługa formularzy i wbudowany serwer.",
+  "odp3" : "mechanizm uruchamiania i przetwarzania akcji, oraz certyfikat http.",
+  "odp4" : "zarządzanie komunikacją z bazą danych, mechanizm uruchamiania i przetwarzania akcji.",
+  "pytanie" : "W skład typowego Framework'a wchodzą",
+  "roz" : "zarządzanie komunikacją z bazą danych, mechanizm uruchamiania i przetwarzania akcji."
+}, {
+  "Id" : "157",
+  "odp1" : "ustawienia hasła do bazy danych.",
+  "odp2" : "pobrania danych z bazy danych.",
+  "odp3" : "zabezpieczenia bazy danych.",
+  "odp4" : "połączenia z bazą danych.",
+  "pytanie" : "Funkcja zapisana językiem PHP służy do",
+  "roz" : "pobrania danych z bazy danych."
+}, {
+  "Id" : "158",
+  "odp1" : ".htaccess",
+  "odp2" : " htaccess.cnf",
+  "odp3" : " .configuration",
+  "odp4" : " configuration.php",
+  "pytanie" : "Domyślna nazwa pliku konfiguracyjnego serwera Apache to",
+  "roz" : ".htaccess."
+}, {
+  "Id" : "159",
+  "odp1" : "blokowania szkodliwego oprogramowania w witrynie.",
+  "odp2" : "zapisania danych o sesjach tworzonych w witrynie.",
+  "odp3" : " zidentyfikowania właściciela witryny.",
+  "odp4" : "deszyfracji transmitowanych danych.",
+  "pytanie" : "Certyfikat SSL jest stosowany do",
+  "roz" : " zidentyfikowania właściciela witryny."
+}, {
+  "Id" : "160",
+  "odp1" : "cyklometrycznych.",
+  "odp2" : "abstrakcyjnych.",
+  "odp3" : "mieszających.",
+  "odp4" : "klucza.",
+  "pytanie" : "Zapisując hasło użytkownika serwisu WWW (np. bankowości internetowej), w celu jego zabezpieczenia przed odtajnieniem, zwykle używa się funkcji",
+  "roz" : "klucza."
+}, {
+  "Id" : "161",
+  "odp1" : "<em>",
+  "odp2" : "<sub>",
+  "odp3" : "<div>",
+  "odp4" : "<strong>",
+  "pytanie" : "Który z wymienionych znaczników języka HTML nie jest stosowany w celu formatowania tekstu?",
+  "roz" : "<div>"
+}, {
+  "Id" : "162",
+  "odp1" : " <dd>",
+  "odp2" : "<dt>",
+  "odp3" : "<ol>",
+  "odp4" : "<ul>",
+  "pytanie" : "Aby zdefiniować w języku HTML listę nienumerowaną, należy użyć znacznika",
+  "roz" : "<ul>"
+}, {
+  "Id" : "163",
+  "odp1" : "tylko big i small",
+  "odp2" : "wyłącznie small, medium, large",
+  "odp3" : "jedynie small, smaller, large, larger",
+  "odp4" : "ze zbioru xx-small, x-small, small, medium, large, x-large, xx-large",
+  "pytanie" : "W języku CSS właściwość font-size przyjmuje, według słów kluczowych, wartości",
+  "roz" : "ze zbioru xx-small, x-small, small, medium, large, x-large, xx-large"
+}, {
+  "Id" : "164",
+  "odp1" : "padding-top",
+  "odp2" : "outline-top",
+  "odp3" : "border-top",
+  "odp4" : "local-top",
+  "pytanie" : "W języku CSS, w celu zdefiniowania wewnętrznego górnego marginesu, czyli odstępu między elementem a otaczającym go obramowaniem, należy użyć polecenia",
+  "roz" : "padding-top"
+}, {
+  "Id" : "165",
+  "odp1" : "wyświetlenia interaktywnego drzewa struktury HTML dla zawartości statycznej i dynamicznej.",
+  "odp2" : "definiowania kaskadowych arkuszy stylów dołączonych do witryny.",
+  "odp3" : "formatowania tekstu przy pomocy dostępnych znaczników.",
+  "odp4" : " tworzenia szablonu strony intenetowej.",
+  "pytanie" : "Funkcja \"drzewo kontekstowe\" edytora WYSIWYG Adobe Dreamweaver służy do",
+  "roz" : "wyświetlenia interaktywnego drzewa struktury HTML dla zawartości statycznej i dynamicznej."
+}, {
+  "Id" : "166",
+  "odp1" : "w pikselach.",
+  "odp2" : "w procentach.",
+  "odp3" : "w milimetrach.",
+  "odp4" : "tylko znacznikami big i small.",
+  "pytanie" : "Aby witryna internetowa prawidłowo skalowała się w urządzeniach mobilnych, należy wielkość czcionki zdefiniować",
+  "roz" : "w procentach."
+}, {
+  "Id" : "167",
+  "odp1" : "pomiędzy znacznikami <body> ... </body>",
+  "odp2" : "w części nagłówkowej witryny.",
+  "odp3" : "pomiędzy znacznikami paragrafu.",
+  "odp4" : "w stopce witryny internetowej.",
+  "pytanie" : "Znacznik meta języka HTML należy umieścić",
+  "roz" : "w części nagłówkowej witryny."
+}, {
+  "Id" : "168",
+  "odp1" : "</br>",
+  "odp2" : "<br/>",
+  "odp3" : "</ br/>",
+  "odp4" : "<br> </br>",
+  "pytanie" : "Prawidłowy, zgodny ze standardem języka HTML, zapis samozamykającego się znacznika odpowiadającego za łamanie linii ma postać",
+  "roz" : "<br/>"
+}, {
+  "Id" : "169",
+  "odp1" : "</br>",
+  "odp2" : "<br/>",
+  "odp3" : "</ br/>",
+  "odp4" : "<br> </br>",
+  "pytanie" : "Prawidłowy, zgodny ze standardem języka HTML, zapis samozamykającego się znacznika odpowiadającego za łamanie linii ma postać",
+  "roz" : "<br/>"
+}, {
+  "Id" : "170",
+  "odp1" : "skorzystanie z walidatora języka HTML.",
+  "odp2" : "skorzystanie z emulatora przeglądarek internetowych np. Browser Sandbox.",
+  "odp3" : "zainstalowanie na kilku komputerach różnych przeglądarek i testowanie witryny.",
+  "odp4" : "testowanie witryny w programie Internet Explorer, zakładając kompatybilność innych przeglądarek.",
+  "pytanie" : "Najprostszą i najmniej pracochłonną metodą przetestowania działania witryny internetowej w wielu przeglądarkach i ich różnych wersjach jest",
+  "roz" : "skorzystanie z emulatora przeglądarek internetowych np. Browser Sandbox."
+}, {
+  "Id" : "171",
+  "odp1" : "Bugzilla",
+  "odp2" : "Go!Zilla",
+  "odp3" : "FileFilla",
+  "odp4" : "CloneZilla",
+  "pytanie" : "Aby przenieść witrynę na serwer, można skorzystać z oprogramowania",
+  "roz" : "FileFilla"
+}, {
+  "Id" : "172",
+  "odp1" : "#008010",
+  "odp2" : "#ff0f10",
+  "odp3" : "#ff8010",
+  "odp4" : "#ff8011",
+  "pytanie" : "Kolor zapisany kodem RGB, o wartości rgb(255,128,16) w kodzie szesnastkowym będzie miał wartość",
+  "roz" : "#ff8010"
+}, {
+  "Id" : "173",
+  "odp1" : "jest to grafika wektorowa.",
+  "odp2" : " jest to obraz stereoskopowy.",
+  "odp3" : "jest potrzeba zapisu obrazu bez kompresji.",
+  "odp4" : "jest potrzeba zapisu obrazu lub animacji.",
+  "pytanie" : "Plik graficzny należy zapisać w formacie GIF, jeżeli",
+  "roz" : "jest potrzeba zapisu obrazu lub animacji."
+}, {
+  "Id" : "174",
+  "odp1" : "wyciszenia.",
+  "odp2" : "normalizacji.",
+  "odp3" : "podbicia basów.",
+  "odp4" : "usuwania szumów.",
+  "pytanie" : "Aby dopasować dźwięk do danego poziomu głośności, należy użyć efektu",
+  "roz" : "normalizacji."
+}, {
+  "Id" : "175",
+  "odp1" : "usunąć istniejący obiekt.",
+  "odp2" : "zmienić parametry obiektu.",
+  "odp3" : "zaktualizować dane obiektu.",
+  "odp4" : "dodać nowy obiekt.",
+  "pytanie" : "Instrukcja DROP języka SQL ma za zadanie",
+  "roz" : "usunąć istniejący obiekt."
+}, {
+  "Id" : "176",
+  "odp1" : "SELECT nazwisko, imie FROM uczniowie WHERE nazwisko IN 'M%';",
+  "odp2" : "SELECT nazwisko, imie FROM uczniowie WHERE nazwisko LIKE 'M%';",
+  "odp3" : " SELECT nazwisko, imie FROM uczniowie ORDER BY nazwisko='M%';",
+  "odp4" : "SELECT nazwisko, imie FROM uczniowie ORDER BY nazwisko IN 'M%';",
+  "pytanie" : "Baza danych zawiera tabelę uczniowie z polami: imie, nazwisko,klasa. Aby odnaleźć imiona i nazwiska tych uczniów, których nazwiska rozpoczynają się literą M, należy zastosować polecenie SQL",
+  "roz" : "SELECT nazwisko, imie FROM uczniowie WHERE nazwisko LIKE 'M%';"
+}, {
+  "Id" : "177",
+  "odp1" : "SELECT nazwa FROM artykuły WHERE typ='pralka'  AND cena FROM 1000 TO 1500;",
+  "odp2" : "SELECT nazwa FROM artykuły WHERE typ='pralka'OR cena BETWEEN 1000 OR 1500;",
+  "odp3" : " SELECT nazwa FROM artykuły WHERE typ='pralka'OR cena BETWEEN 1000 OR 1500;",
+  "odp4" : "SELECT nazwa FROM artykuły WHERE typ='pralka' AND cena BETWEEN 1000 AND 1500;",
+  "pytanie" : "Baza danych zawiera tabelę artykuły z polami: nazwa, typ, producent, cena. Aby wyświetlić wszystkie nazwy artykułów wyłącznie typu pralka, dla których cena jest z przedziału 1000 PLN i 1500 PLN, należy zastosować polecenie",
+  "roz" : "SELECT nazwa FROM artykuły WHERE typ='pralka' AND cena BETWEEN 1000 AND 1500;"
+}, {
+  "Id" : "178",
+  "odp1" : "musi być unikalna.",
+  "odp2" : "jest zawsze typu numerycznego.",
+  "odp3" : "służy do szyfrowania zawartości tabeli.",
+  "odp4" : "może przyjmować wartość pustą (NULL).",
+  "pytanie" : "Wartość pola tabeli pełniącego rolę klucza podstawowego",
+  "roz" : "musi być unikalna."
+}, {
+  "Id" : "179",
+  "odp1" : "klucz obcy wskazujący na klucz obcy tabeli po stronie \"jeden\".",
+  "odp2" : " klucz sztuczny odnoszący się do kluczy podstawowych obu tabel.",
+  "odp3" : "klucz obcy wskazujący na klucz podstawowy tabeli po stronie \"jeden\".",
+  "odp4" : "klucz podstawowy wskazujący na klucz podstawowy tabeli po stronie \"jeden\".",
+  "pytanie" : "Aby utworzyć relację jeden do wielu, w tabeli po stronie \"wiele\", należy zdefiniować",
+  "roz" : "klucz obcy wskazujący na klucz podstawowy tabeli po stronie \"jeden\"."
+}, {
+  "Id" : "180",
+  "odp1" : "raport.",
+  "odp2" : "kwerenda.",
+  "odp3" : "formularz.",
+  "odp4" : "makropolecenie.",
+  "pytanie" : "Narzędziem służącym do grupowania i prezentowania informacji z wielu rekordów w celu ich drukowania lub rozpowszechniania jest",
+  "roz" : "raport."
+}, {
+  "Id" : "181",
+  "odp1" : "kwerendę SELECT.",
+  "odp2" : "formularz.",
+  "odp3" : "raport.",
+  "odp4" : "filtr.",
+  "pytanie" : "Aby uprościć wprowadzanie i edytowanie danych w tabeli, należy zdefiniować",
+  "roz" : "formularz."
+}, {
+  "Id" : "182",
+  "odp1" : "SELECT szkola FROM klasa=klasa+1 WHERE klasa>=1 AND klasa<=5;",
+  "odp2" : "SELECT nazwisko, imie FROM klasa=klasa+1 WHERE klasa>1 OR klasa <5;",
+  "odp3" : "UPDATE szkola SET klasa=klasa+1 WHERE klasa>=1 AND klasa<=5;",
+  "odp4" : "UPDATE nazwisko, imie SET klasa=klasa+1 WHERE klasa>1 OR klasa <5;",
+  "pytanie" : "Baza danych 6-letniej szkoły podstawowej zawiera tabelę szkoła z polami: imie, nazwisko, klasa. Wszyscy uczniowie klas 1 - 5 zdali do następnej klasy. Aby zwiększyć wartość w polu klasa o 1 należy użyć polecenia",
+  "roz" : "UPDATE szkola SET klasa=klasa+1 WHERE klasa>=1 AND klasa<=5;"
+}, {
+  "Id" : "183",
+  "odp1" : "dziedziczyć uprawnienia.",
+  "odp2" : "modyfikować role i konta użytkowników.",
+  "odp3" : "wykonywać instrukcje, takie jak tworzenie kopii zapasowej.",
+  "odp4" : "wykonywać operacje na bazie, takie jak wstawianie lub modyfikowanie danych.",
+  "pytanie" : "Uprawnienia obiektowe, nadawane użytkownikom serwera bazy danych, mogą pozwalać lub zabraniać",
+  "roz" : "wykonywać operacje na bazie, takie jak wstawianie lub modyfikowanie danych."
+}, {
+  "Id" : "184",
+  "odp1" : "możliwość udostępniania bazy danych.",
+  "odp2" : "prawa dostępu do serwera bazy danych",
+  "odp3" : "poprawność składni zapytań.",
+  "odp4" : "spójność bazy.",
+  "pytanie" : "Przed wykonaniem kopii bezpieczeństwa bazy danych, tak aby kopia ta była poprawna i możliwa do późniejszego odtworzenia, należy sprawdzić",
+  "roz" : "spójność bazy."
+}, {
+  "Id" : "185",
+  "odp1" : "odtworzenia bazy danych z kopii bezpieczeństwa.",
+  "odp2" : "odświeżenia bazy danych z kontrolą więzów integralności.",
+  "odp3" : "przebudowania bazy danych w oparciu o buforowane dane.",
+  "odp4" : "usunięcia bazy danych z serwera centralnego subskrybenta.",
+  "pytanie" : "W MS SQL Server polecenie RESTORE DATABASE służy do",
+  "roz" : "odtworzenia bazy danych z kopii bezpieczeństwa."
+}, {
+  "Id" : "186",
+  "odp1" : "logiczne.",
+  "odp2" : "nieliczbowe.",
+  "odp3" : "tylko całkowite.",
+  "odp4" : "zmiennoprzecinkowe.",
+  "pytanie" : "W języku PHP zmienna typu float przyjmuje wartości",
+  "roz" : "zmiennoprzecinkowe."
+}, {
+  "Id" : "187",
+  "odp1" : "Anna",
+  "odp2" : "Tomasz",
+  "odp3" : "Krzysztof",
+  "odp4" : "Aleksandra",
+  "pytanie" : "Dany jest fragment kodu PHP z zadeklarowaną zmienną typu tablicowego.
+  W wyniku wykonania kodu zostanie wypisane imię",
+  "roz" : "Krzysztof"
+}, {
+  "Id" : "188",
+  "odp1" : "jest błędny, nieznany operator =>",
+  "odp2" : "definiuje tablicę z trzena wartościami.",
+  "odp3" : "definiuje tablicę z sześcioma wartościami.",
+  "odp4" : "jest błędny, indeksami tablicy mogą być tylko liczby całkowite.",
+  "pytanie" : "Przedstawiony kod języka PHP",
+  "roz" : "definiuje tablicę z trzena wartościami."
+}, {
+  "Id" : "189",
+  "odp1" : "#imie",
+  "odp2" : "imie2",
+  "odp3" : "imię2",
+  "odp4" : "imię%",
+  "pytanie" : "W języku JavaScript poprawnie nadana zmienna to",
+  "roz" : "imie2"
+}, {
+  "Id" : "190",
+  "odp1" : "najmniejszej.",
+  "odp2" : "największej.",
+  "odp3" : "nieparzystej.",
+  "odp4" : "parzystej.",
+  "pytanie" : "W języku JavaScript poprawnie nadana zmienna to",
+  "roz" : "największej."
+}, {
+  "Id" : "191",
+  "odp1" : "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20",
+  "odp2" : "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19",
+  "odp3" : "0, 4, 8, 12, 16, 20",
+  "odp4" : "0, 4, 8, 12, 16.",
+  "pytanie" : "ragment kodu w języku PHP ma następującą postać (patrz ramka):
+  Wynikiem działania pętli będzie wypisanie liczb",
+  "roz" : "0, 4, 8, 12, 16, 20"
+}, {
+  "Id" : "192",
+  "odp1" : "wypisanie liczby parzystej.",
+  "odp2" : "wypisanie liczby nieparzystej.",
+  "odp3" : " zwrócenie wartości 1, gdy liczba jest parzysta.",
+  "odp4" : " zwrócenie wartości 0, gdy liczba jest parzysta.",
+  "pytanie" : "Funkcja zapisana w języku PHP ma postać (patrz ramka):
+  Jej zadaniem jest",
+  "roz" : " zwrócenie wartości 1, gdy liczba jest parzysta."
+}, {
+  "Id" : "193",
+  "odp1" : "debugowania.",
+  "odp2" : "kompilowania.",
+  "odp3" : "interpretowania.",
+  "odp4" : "zamiany na kod maszynowy.",
+  "pytanie" : "Wykonanie kodu JavaScript w przeglądarce wymaga",
+  "roz" : "interpretowania."
+}, {
+  "Id" : "194",
+  "odp1" : " jest wykonywany po stronie klienta.",
+  "odp2" : "jest wykonywany po stronie serwera.",
+  "odp3" : "może być uruchomiony bez obsługi serwera WWW.",
+  "odp4" : "jest przetwarzany na tych samych zasadach co JavaScript.",
+  "pytanie" : "Kod strony WWW napisanej w języku PHP",
+  "roz" : "jest wykonywany po stronie serwera."
+}, {
+  "Id" : "195",
+  "odp1" : "największego elementu tablicy.",
+  "odp2" : "najmniejszego elementu tablicy.",
+  "odp3" : "elementu tablicy, który jest równy wartości $tab[0].",
+  "odp4" : "tych elementów, które są większe od zmiennej $liczba.",
+  "pytanie" : "Fragment kodu w języku PHP ma następującą postać (patrz ramka):
+  Zakładając, że zmienna tablicowa $tab jest wypełniona liczbami naturalnymi, wynikiem programu będzie wypisanie",
+  "roz" : "największego elementu tablicy."
+}, {
+  "Id" : "196",
+  "odp1" : "<button onselect=\"return dodaj()\">dodaj</button>",
+  "odp2" : "<button onselect=\"return dodaj()\">oblicz</button>",
+  "odp3" : "<button onclick=\"return obliczj()\">dodaj</button>",
+  "odp4" : "<button onclick=\"return dodaj()\">dodaj</button>",
+  "pytanie" : "Fragment kodu w języku JavaScript realizujący dodawanie dwóch liczb ma następującą postać (patrz ramka):
+  Aby dodawanie wykonane było po kliknięciu przycisku o nazwie\"dodaj\" , należy w wykropkowane miejsce wstawić",
+  "roz" : "jest wykonywany po stronie serwera."
+}, {
+  "Id" : "197",
+  "odp1" : "<!--",
+  "odp2" : "<?",
+  "odp3" : "//",
+  "odp4" : "#",
+  "pytanie" : "Komentarz w języku JavaScript rozpoczyna się od znaku lub znaków",
+  "roz" : "//"
+}, {
+  "Id" : "198",
+  "odp1" : "mySQL",
+  "odp2" : "MS SQL",
+  "odp3" : "PostgreSQL",
+  "odp4" : "MS ACCESS",
+  "pytanie" : "Polecenie pg_connect języka PHP służy do połączenia się z bazą",
+  "roz" : "PostgreSQL"
+}, {
+  "Id" : "199",
+  "odp1" : "FTP",
+  "odp2" : "HTTP",
+  "odp3" : "SMTP",
+  "odp4" : "NNTP",
+  "pytanie" : "Aby zamieścić aplikację PHP w Internecie, należy jej pliki źródłowe skopiować na serwer za pomocą protokołu",
+  "roz" : "FTP"
+}, {
+  "Id" : "200",
+  "odp1" : "obiektów DOM.",
+  "odp2" : "łączenia z bazą.",
+  "odp3" : "formularzy.",
+  "odp4" : "cookie.",
+  "pytanie" : "Personalizowanie wyglądu strony dla danego użytkownika i jego identyfikacja w serwisie są możliwe dzięki mechanizmowi",
+  "roz" : "cookie."
+    
+  
