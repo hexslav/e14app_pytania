@@ -1206,6 +1206,7 @@
   "roz" : "odczyt danych z tabeli."
 }, {
   "Id" : "143",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/143.jpg?alt=media&token=fbac4a3d-d99b-463a-81bc-0c0969910336",
   "odp1" : "centralnego subskrybenta.",
   "odp2" : "centralnego wydawcy.",
   "odp3" : "równorzędnym.",
@@ -1262,6 +1263,7 @@
   "roz" : "echo"
 }, {
   "Id" : "150",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/150.jpg?alt=media&token=6a7019c5-c10d-4393-83fd-c979b61034ab",
   "odp1" : "od 10 do 1",
   "odp2" : "od 10 do 2",
   "odp3" : "od 1 do 10",
@@ -1286,6 +1288,7 @@
   "roz" : "zinterpretowany po stronie serwera."
 }, {
   "Id" : "153",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/153.jpg?alt=media&token=e9eb95ea-412f-4d72-b5d6-a60410353d53",
   "odp1" : "wynik dzielenia liczby przez 2 jest równy 0.",
   "odp2" : "jest ona liczbą pierwszą.",
   "odp3" : "jest ona parzysta.",
@@ -1302,6 +1305,7 @@
   "roz" : " onClick"
 }, {
   "Id" : "155",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/155.jpg?alt=media&token=50c03f4f-2440-4fa5-9a2f-60b46eb91d0e",
   "odp1" : "Usunięcie akapitu ze strony.",
   "odp2" : "Dodanie akapitu na koniec strony.",
   "odp3" : "Dodanie akapitu na początku strony.",
@@ -1318,6 +1322,7 @@
   "roz" : "zarządzanie komunikacją z bazą danych, mechanizm uruchamiania i przetwarzania akcji."
 }, {
   "Id" : "157",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/157.jpg?alt=media&token=1cdbd2e9-91dc-4e09-a09e-9abc710e8902",
   "odp1" : "ustawienia hasła do bazy danych.",
   "odp2" : "pobrania danych z bazy danych.",
   "odp3" : "zabezpieczenia bazy danych.",
@@ -1558,15 +1563,16 @@
   "roz" : "zmiennoprzecinkowe."
 }, {
   "Id" : "187",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/187.jpg?alt=media&token=8ad93382-ccdd-4e37-b4f2-bace53e851de",
   "odp1" : "Anna",
   "odp2" : "Tomasz",
   "odp3" : "Krzysztof",
   "odp4" : "Aleksandra",
-  "pytanie" : "Dany jest fragment kodu PHP z zadeklarowaną zmienną typu tablicowego.
-  W wyniku wykonania kodu zostanie wypisane imię",
+  "pytanie" : "Dany jest fragment kodu PHP z zadeklarowaną zmienną typu tablicowego. W wyniku wykonania kodu zostanie wypisane imię",
   "roz" : "Krzysztof"
 }, {
   "Id" : "188",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/188.jpg?alt=media&token=f744c757-4f0d-43b8-b413-5122ce577647",
   "odp1" : "jest błędny, nieznany operator =>",
   "odp2" : "definiuje tablicę z trzena wartościami.",
   "odp3" : "definiuje tablicę z sześcioma wartościami.",
@@ -1583,6 +1589,7 @@
   "roz" : "imie2"
 }, {
   "Id" : "190",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/190.jpg?alt=media&token=e175a713-3ee1-4c43-92dd-84a7555cbd1c",
   "odp1" : "najmniejszej.",
   "odp2" : "największej.",
   "odp3" : "nieparzystej.",
@@ -1591,21 +1598,21 @@
   "roz" : "największej."
 }, {
   "Id" : "191",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/191.jpg?alt=media&token=bb6fcf0e-0eff-4797-8920-ef4b27ffc46e",
   "odp1" : "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20",
   "odp2" : "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19",
   "odp3" : "0, 4, 8, 12, 16, 20",
   "odp4" : "0, 4, 8, 12, 16.",
-  "pytanie" : "ragment kodu w języku PHP ma następującą postać (patrz ramka):
-  Wynikiem działania pętli będzie wypisanie liczb",
+  "pytanie" : "Fragment kodu w języku PHP ma następującą postać (patrz ramka): Wynikiem działania pętli będzie wypisanie liczb",
   "roz" : "0, 4, 8, 12, 16, 20"
 }, {
   "Id" : "192",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/192.jpg?alt=media&token=ccda3c6b-a87d-489a-b13c-6786bdbb979c",
   "odp1" : "wypisanie liczby parzystej.",
   "odp2" : "wypisanie liczby nieparzystej.",
   "odp3" : " zwrócenie wartości 1, gdy liczba jest parzysta.",
   "odp4" : " zwrócenie wartości 0, gdy liczba jest parzysta.",
-  "pytanie" : "Funkcja zapisana w języku PHP ma postać (patrz ramka):
-  Jej zadaniem jest",
+  "pytanie" : "Funkcja zapisana w języku PHP ma postać (patrz ramka): Jej zadaniem jest",
   "roz" : " zwrócenie wartości 1, gdy liczba jest parzysta."
 }, {
   "Id" : "193",
@@ -1625,21 +1632,21 @@
   "roz" : "jest wykonywany po stronie serwera."
 }, {
   "Id" : "195",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/195.jpg?alt=media&token=6f2b8053-655a-450f-9ca1-4fb10cadd29c",
   "odp1" : "największego elementu tablicy.",
   "odp2" : "najmniejszego elementu tablicy.",
   "odp3" : "elementu tablicy, który jest równy wartości $tab[0].",
   "odp4" : "tych elementów, które są większe od zmiennej $liczba.",
-  "pytanie" : "Fragment kodu w języku PHP ma następującą postać (patrz ramka):
-  Zakładając, że zmienna tablicowa $tab jest wypełniona liczbami naturalnymi, wynikiem programu będzie wypisanie",
+  "pytanie" : "Fragment kodu w języku PHP ma następującą postać (patrz ramka): Zakładając, że zmienna tablicowa $tab jest wypełniona liczbami naturalnymi, wynikiem programu będzie wypisanie",
   "roz" : "największego elementu tablicy."
 }, {
   "Id" : "196",
+  "img_url" : "https://firebasestorage.googleapis.com/v0/b/e14app.appspot.com/o/196.jpg?alt=media&token=d71e4fa3-7f08-4268-8e3c-53e9e5a82011",
   "odp1" : "<button onselect=\"return dodaj()\">dodaj</button>",
   "odp2" : "<button onselect=\"return dodaj()\">oblicz</button>",
   "odp3" : "<button onclick=\"return obliczj()\">dodaj</button>",
   "odp4" : "<button onclick=\"return dodaj()\">dodaj</button>",
-  "pytanie" : "Fragment kodu w języku JavaScript realizujący dodawanie dwóch liczb ma następującą postać (patrz ramka):
-  Aby dodawanie wykonane było po kliknięciu przycisku o nazwie\"dodaj\" , należy w wykropkowane miejsce wstawić",
+  "pytanie" : "Fragment kodu w języku JavaScript realizujący dodawanie dwóch liczb ma następującą postać (patrz ramka): Aby dodawanie wykonane było po kliknięciu przycisku o nazwie\"dodaj\" , należy w wykropkowane miejsce wstawić",
   "roz" : "jest wykonywany po stronie serwera."
 }, {
   "Id" : "197",
@@ -1672,6 +1679,7 @@
   "odp3" : "formularzy.",
   "odp4" : "cookie.",
   "pytanie" : "Personalizowanie wyglądu strony dla danego użytkownika i jego identyfikacja w serwisie są możliwe dzięki mechanizmowi",
-  "roz" : "cookie."
+  "roz" : "cookie."}
+]
     
   
